@@ -1,0 +1,10 @@
+## Project Nusantara v3.1.11 : Device Changelogs ##
+• July Security Patch
+• Added RealmeDirac
+• Replaced GameMode with PerfProfiles
+• Added Adb on boot
+• Made sure Screenrecorder doesn't crash anymore
+• Shows hidden files and internal storage by default
+• FPS works with NEOLIT
+• Unlimited Google Photos backup
+• and various other fixes and optimisations. 
