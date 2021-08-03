@@ -3,7 +3,7 @@
 • Added RealmeDirac
 • Replaced GameMode with PerfProfiles
 • Added Adb on boot
-• Made sure Screenrecorder doesn't crash anymore
+• Made sure Screenrecorder doesn't crash anymore like v3.0.11
 • Shows hidden files and internal storage by default
 • FPS works with NEOLIT
 • Unlimited Google Photos backup
