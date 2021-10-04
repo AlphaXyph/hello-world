@@ -1,0 +1,437 @@
+<html class="html" lang="en-US">
+ <head> 
+  <meta charset="UTF-8"> 
+  <link rel="profile" href="https://gmpg.org/xfn/11"> 
+  <title>My account – Online Mobile shop</title> 
+  <meta name="robots" content="max-image-preview:large, noindex, follow"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="dns-prefetch" href="//s.w.org"> 
+  <link rel="alternate" type="application/rss+xml" title="Online Mobile shop » Feed" href="http://alphaxyph.me/feed/"> 
+  <link rel="alternate" type="application/rss+xml" title="Online Mobile shop » Comments Feed" href="http://alphaxyph.me/comments/feed/"> 
+  <script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/alphaxyph.me\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8.1"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script> 
+  <style>
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style> 
+  <link rel="stylesheet" id="dashicons-css" href="http://alphaxyph.me/wp-includes/css/dashicons.min.css?ver=5.8.1" media="all"> 
+  <link rel="stylesheet" id="thickbox-css" href="http://alphaxyph.me/wp-includes/js/thickbox/thickbox.css?ver=5.8.1" media="all"> 
+  <link rel="stylesheet" id="wp-block-library-css" href="http://alphaxyph.me/wp-includes/css/dist/block-library/style.min.css?ver=5.8.1" media="all"> 
+  <style id="wp-block-library-theme-inline-css">
+#start-resizable-editor-section{display:none}.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:hsla(0,0%,100%,.65)}.wp-block-code{font-family:Menlo,Consolas,monaco,monospace;color:#1e1e1e;padding:.8em 1em;border:1px solid #ddd;border-radius:4px}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:hsla(0,0%,100%,.65)}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-pullquote{border-top:4px solid;border-bottom:4px solid;margin-bottom:1.75em;color:currentColor}.wp-block-pullquote__citation,.wp-block-pullquote cite,.wp-block-pullquote footer{color:currentColor;text-transform:uppercase;font-size:.8125em;font-style:normal}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;position:relative;font-style:normal}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-group.has-background{padding:1.25em 2.375em;margin-top:0;margin-bottom:0}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto;opacity:.4}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table thead{border-bottom:3px solid}.wp-block-table tfoot{border-top:3px solid}.wp-block-table td,.wp-block-table th{padding:.5em;border:1px solid;word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:hsla(0,0%,100%,.65)}.wp-block-template-part.has-background{padding:1.25em 2.375em;margin-top:0;margin-bottom:0}#end-resizable-editor-section{display:none}
+</style> 
+  <link rel="stylesheet" id="wc-blocks-vendors-style-css" href="http://alphaxyph.me/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=5.7.2" media="all"> 
+  <link rel="stylesheet" id="wc-blocks-style-css" href="http://alphaxyph.me/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=5.7.2" media="all"> 
+  <link rel="stylesheet" id="eh-style-css" href="http://alphaxyph.me/wp-content/plugins/payment-gateway-stripe-and-woocommerce-integration/assets/css/eh-style.css?ver=3.6.5" media="all"> 
+  <link rel="stylesheet" id="sticky-header-oceanwp-style-css" href="http://alphaxyph.me/wp-content/plugins/sticky-header-oceanwp//style.css?ver=5.8.1" media="all"> 
+  <link rel="stylesheet" id="select2-css" href="http://alphaxyph.me/wp-content/plugins/woocommerce/assets/css/select2.css?ver=5.7.1" media="all"> 
+  <style id="woocommerce-inline-inline-css">
+.woocommerce form .form-row .required { visibility: visible; }
+</style> 
+  <link rel="preload" as="font" type="font/woff2" crossorigin="anonymous" id="tinvwl-webfont-font-css" href="http://alphaxyph.me/wp-content/plugins/ti-woocommerce-wishlist/assets/fonts/tinvwl-webfont.woff2?ver=xu2uyi" media="all"> 
+  <link rel="stylesheet" id="tinvwl-webfont-css" href="http://alphaxyph.me/wp-content/plugins/ti-woocommerce-wishlist/assets/css/webfont.min.css?ver=1.28.4" media="all"> 
+  <link rel="stylesheet" id="tinvwl-css" href="http://alphaxyph.me/wp-content/plugins/ti-woocommerce-wishlist/assets/css/public.min.css?ver=1.28.4" media="all"> 
+  <link rel="stylesheet" id="oceanwp-woo-mini-cart-css" href="http://alphaxyph.me/wp-content/themes/oceanwp/assets/css/woo/woo-mini-cart.min.css?ver=5.8.1" media="all"> 
+  <link rel="stylesheet" id="font-awesome-css" href="http://alphaxyph.me/wp-content/themes/oceanwp/assets/fonts/fontawesome/css/all.min.css?ver=5.15.1" media="all"> 
+  <link rel="stylesheet" id="simple-line-icons-css" href="http://alphaxyph.me/wp-content/themes/oceanwp/assets/css/third/simple-line-icons.min.css?ver=2.4.0" media="all"> 
+  <link rel="stylesheet" id="oceanwp-style-css" href="http://alphaxyph.me/wp-content/themes/oceanwp/assets/css/style.min.css?ver=3.0.7" media="all"> 
+  <link rel="stylesheet" id="elementor-icons-ekiticons-css" href="http://alphaxyph.me/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/css/ekiticons.css?ver=2.3.7" media="all"> 
+  <link rel="stylesheet" id="woo-variation-swatches-css" href="http://alphaxyph.me/wp-content/plugins/woo-variation-swatches/assets/css/frontend.min.css?ver=1.1.19" media="all"> 
+  <style id="woo-variation-swatches-inline-css">
+.variable-item:not(.radio-variable-item) { width : 30px; height : 30px; } .wvs-style-squared .button-variable-item { min-width : 30px; } .button-variable-item span { font-size : 16px; }
+</style> 
+  <link rel="stylesheet" id="woo-variation-swatches-theme-override-css" href="http://alphaxyph.me/wp-content/plugins/woo-variation-swatches/assets/css/wvs-theme-override.min.css?ver=1.1.19" media="all"> 
+  <link rel="stylesheet" id="woo-variation-swatches-tooltip-css" href="http://alphaxyph.me/wp-content/plugins/woo-variation-swatches/assets/css/frontend-tooltip.min.css?ver=1.1.19" media="all"> 
+  <link rel="stylesheet" id="woo-variation-gallery-slider-css" href="http://alphaxyph.me/wp-content/plugins/woo-variation-gallery/assets/css/slick.min.css?ver=1.8.1" media="all"> 
+  <link rel="stylesheet" id="woo-variation-gallery-css" href="http://alphaxyph.me/wp-content/plugins/woo-variation-gallery/assets/css/frontend.min.css?ver=1.2.7" media="all"> 
+  <style id="woo-variation-gallery-inline-css">
+:root { --wvg-thumbnail-item-gap : 0px; --wvg-single-image-size : 600px; --wvg-gallery-width : 40%; --wvg-gallery-margin : 30px; } /* Default Width */ .woo-variation-product-gallery { max-width : 40% !important; } /* Medium Devices, Desktops */ /* Small Devices, Tablets */ @media only screen and (max-width : 768px) { .woo-variation-product-gallery { width : 720px; max-width : 100% !important; } } /* Extra Small Devices, Phones */ @media only screen and (max-width : 480px) { .woo-variation-product-gallery { width : 320px; max-width : 100% !important; } }
+</style> 
+  <link rel="stylesheet" id="woo-variation-gallery-theme-support-css" href="http://alphaxyph.me/wp-content/plugins/woo-variation-gallery/assets/css/theme-support.min.css?ver=1.2.7" media="all"> 
+  <link rel="stylesheet" id="oceanwp-woocommerce-css" href="http://alphaxyph.me/wp-content/themes/oceanwp/assets/css/woo/woocommerce.min.css?ver=5.8.1" media="all"> 
+  <link rel="stylesheet" id="oceanwp-woo-star-font-css" href="http://alphaxyph.me/wp-content/themes/oceanwp/assets/css/woo/woo-star-font.min.css?ver=5.8.1" media="all"> 
+  <link rel="stylesheet" id="oceanwp-woo-quick-view-css" href="http://alphaxyph.me/wp-content/themes/oceanwp/assets/css/woo/woo-quick-view.min.css?ver=5.8.1" media="all"> 
+  <link rel="stylesheet" id="oceanwp-wishlist-css" href="http://alphaxyph.me/wp-content/themes/oceanwp/assets/css/woo/wishlist.min.css?ver=5.8.1" media="all"> 
+  <link rel="stylesheet" id="ekit-widget-styles-css" href="http://alphaxyph.me/wp-content/plugins/elementskit-lite/widgets/init/assets/css/widget-styles.css?ver=2.3.7" media="all"> 
+  <link rel="stylesheet" id="ekit-responsive-css" href="http://alphaxyph.me/wp-content/plugins/elementskit-lite/widgets/init/assets/css/responsive.css?ver=2.3.7" media="all"> 
+  <link rel="stylesheet" id="oe-widgets-style-css" href="http://alphaxyph.me/wp-content/plugins/ocean-extra/assets/css/widgets.css?ver=5.8.1" media="all"> 
+  <link rel="stylesheet" id="ops-product-share-style-css" href="http://alphaxyph.me/wp-content/plugins/ocean-product-sharing/assets/css/style.min.css?ver=5.8.1" media="all"> 
+  <link rel="stylesheet" id="oss-social-share-style-css" href="http://alphaxyph.me/wp-content/plugins/ocean-social-sharing/assets/css/style.min.css?ver=5.8.1" media="all"> 
+  <script type="text/template" id="tmpl-variation-template">
+	<div class="woocommerce-variation-description">{{{ data.variation.variation_description }}}</div>
+	<div class="woocommerce-variation-price">{{{ data.variation.price_html }}}</div>
+	<div class="woocommerce-variation-availability">{{{ data.variation.availability_html }}}</div>
+</script> 
+  <script type="text/template" id="tmpl-unavailable-variation-template">
+	<p>Sorry, this product is unavailable. Please choose a different combination.</p>
+</script> 
+  <link rel="https://api.w.org/" href="http://alphaxyph.me/wp-json/">
+  <link rel="alternate" type="application/json" href="http://alphaxyph.me/wp-json/wp/v2/pages/11">
+  <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://alphaxyph.me/xmlrpc.php?rsd"> 
+  <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://alphaxyph.me/wp-includes/wlwmanifest.xml"> 
+  <meta name="generator" content="WordPress 5.8.1"> 
+  <meta name="generator" content="WooCommerce 5.7.1"> 
+  <link rel="canonical" href="http://alphaxyph.me/my-account/"> 
+  <link rel="shortlink" href="http://alphaxyph.me/?p=11"> 
+  <link rel="alternate" type="application/json+oembed" href="http://alphaxyph.me/wp-json/oembed/1.0/embed?url=http%3A%2F%2Falphaxyph.me%2Fmy-account%2F"> 
+  <link rel="alternate" type="text/xml+oembed" href="http://alphaxyph.me/wp-json/oembed/1.0/embed?url=http%3A%2F%2Falphaxyph.me%2Fmy-account%2F&amp;format=xml"> 
+  <script type="text/javascript">
+            ( function () {
+                window.lae_fs = { can_use_premium_code: false};
+            } )();
+        </script> 
+  <noscript>
+   <style>.woocommerce-product-gallery{ opacity: 1 !important; }</style>
+  </noscript> 
+  <style id="wp-custom-css">
+			h3.premium-banner-ib-title.premium_banner_title{background-color:#dd8601}		</style> 
+  <!-- OceanWP CSS --> 
+  <style type="text/css">
+/* Header CSS */#site-header.has-header-media .overlay-header-media{background-color:rgba(0,0,0,0.5)}/* WooCommerce CSS */#owp-checkout-timeline .timeline-step{color:#cccccc}#owp-checkout-timeline .timeline-step{border-color:#cccccc}
+</style>
+ </head> 
+ <body class="page-template-default page page-id-11 wp-embed-responsive theme-oceanwp woocommerce-account woocommerce-page woocommerce-js tinvwl-theme-style woo-variation-gallery woo-variation-gallery-theme-oceanwp woo-variation-gallery-theme-child-oceanwp woo-variation-swatches woo-variation-swatches-on-mobile wvs-theme-oceanwp wvs-theme-child-oceanwp wvs-style-squared wvs-attr-behavior-blur wvs-tooltip wvs-css wvs-show-label oceanwp-theme dropdown-mobile default-breakpoint has-sidebar content-right-sidebar has-topbar has-breadcrumbs has-grid-list account-original-style elementor-default elementor-kit-6" itemscope itemtype="https://schema.org/WebPage"> 
+  <div id="outer-wrap" class="site clr"> 
+   <a class="skip-link screen-reader-text" href="#main">Skip to content</a> 
+   <div id="wrap" class="clr"> 
+    <div id="top-bar-wrap" class="clr"> 
+     <div id="top-bar" class="clr container has-no-content"> 
+      <div id="top-bar-inner" class="clr"> 
+      </div>
+      <!-- #top-bar-inner --> 
+     </div>
+     <!-- #top-bar --> 
+    </div>
+    <!-- #top-bar-wrap --> 
+    <header id="site-header" class="minimal-header clr" data-height="74" itemscope itemtype="https://schema.org/WPHeader" role="banner"> 
+     <div id="site-header-inner" class="clr container"> 
+      <div id="site-logo" class="clr" itemscope itemtype="https://schema.org/Brand"> 
+       <div id="site-logo-inner" class="clr"> 
+        <a href="http://alphaxyph.me/" rel="home" class="site-title site-logo-text">Online Mobile shop</a> 
+       </div>
+       <!-- #site-logo-inner --> 
+      </div>
+      <!-- #site-logo --> 
+      <div id="site-navigation-wrap" class="clr"> 
+       <nav id="site-navigation" class="navigation main-navigation clr" itemscope itemtype="https://schema.org/SiteNavigationElement" role="navigation"> 
+        <ul id="menu-main-menu" class="main-menu dropdown-menu sf-menu">
+         <li id="menu-item-96" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-96"><a href="http://alphaxyph.me/" class="menu-link"><span class="text-wrap">Home</span></a></li>
+         <li id="menu-item-101" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-101"><a href="http://alphaxyph.me/shop/" class="menu-link"><span class="text-wrap">Shop</span></a></li>
+         <li id="menu-item-99" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-99"><a href="http://alphaxyph.me/contact-us/" class="menu-link"><span class="text-wrap">Contact Us</span></a></li>
+         <li id="menu-item-97" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-97"><a href="http://alphaxyph.me/cart/" class="menu-link"><span class="text-wrap">Cart</span></a></li>
+         <li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-11 current_page_item menu-item-has-children dropdown menu-item-100"><a href="http://alphaxyph.me/my-account/" class="menu-link"><span class="text-wrap">My account<i class="nav-arrow fa fa-angle-down" aria-hidden="true" role="img"></i></span></a> 
+          <ul class="sub-menu"> 
+           <li id="menu-item-103" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-103"><a href="http://alphaxyph.me/track-order/" class="menu-link"><span class="text-wrap">Track Order</span></a></li> 
+           <li id="menu-item-98" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-98"><a href="http://alphaxyph.me/checkout/" class="menu-link"><span class="text-wrap">Checkout</span></a></li> 
+           <li id="menu-item-102" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-102"><a href="http://alphaxyph.me/wishlist/" class="menu-link"><span class="text-wrap">Wishlist</span></a></li>
+          </ul> </li>
+         <li id="menu-item-108" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-11 current_page_item menu-item-108"><a href="http://alphaxyph.me/my-account/" class="menu-link"><span class="text-wrap">Login/Register</span></a></li> 
+         <li class="woo-menu-icon wcmenucart-toggle-drop_down toggle-cart-widget"> <a href="http://alphaxyph.me/cart/" class="wcmenucart"> <span class="wcmenucart-count"><i class=" icon-handbag" aria-hidden="true" role="img"></i><span class="wcmenucart-details count">0</span></span> </a> 
+          <div class="current-shop-items-dropdown owp-mini-cart clr"> 
+           <div class="current-shop-items-inner clr"> 
+            <div class="widget woocommerce widget_shopping_cart">
+             <div class="widget_shopping_cart_content"></div>
+            </div> 
+           </div> 
+          </div> </li> 
+         <li class="search-toggle-li"><a href="javascript:void(0)" class="site-search-toggle search-dropdown-toggle" aria-label="Search website"><i class=" icon-magnifier" aria-hidden="true" role="img"></i></a></li>
+        </ul> 
+        <div id="searchform-dropdown" class="header-searchform-wrap clr"> 
+         <form role="search" method="get" class="searchform" action="http://alphaxyph.me/"> 
+          <label for="ocean-search-form-1"> <span class="screen-reader-text">Search this website</span> <input type="search" id="ocean-search-form-1" class="field" autocomplete="off" placeholder="Search" name="s"> </label> 
+         </form> 
+        </div>
+        <!-- #searchform-dropdown --> 
+       </nav>
+       <!-- #site-navigation --> 
+      </div>
+      <!-- #site-navigation-wrap --> 
+      <div class="oceanwp-mobile-menu-icon clr mobile-right"> 
+       <a href="http://alphaxyph.me/cart/" class="wcmenucart"> <span class="wcmenucart-count"><i class=" icon-handbag" aria-hidden="true" role="img"></i><span class="wcmenucart-details count">0</span></span> </a> 
+       <a href="javascript:void(0)" class="mobile-menu" aria-label="Mobile Menu"> <i class="fa fa-bars" aria-hidden="true"></i> <span class="oceanwp-text">Menu</span> <span class="oceanwp-close-text">Close</span> </a> 
+      </div>
+      <!-- #oceanwp-mobile-menu-navbar --> 
+     </div>
+     <!-- #site-header-inner --> 
+     <div id="mobile-dropdown" class="clr"> 
+      <nav class="clr" itemscope itemtype="https://schema.org/SiteNavigationElement"> 
+       <ul id="menu-main-menu-1" class="menu">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-96"><a href="http://alphaxyph.me/">Home</a></li> 
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-101"><a href="http://alphaxyph.me/shop/">Shop</a></li> 
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-99"><a href="http://alphaxyph.me/contact-us/">Contact Us</a></li> 
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-97"><a href="http://alphaxyph.me/cart/">Cart</a></li> 
+        <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-11 current_page_item menu-item-has-children menu-item-100"><a href="http://alphaxyph.me/my-account/" aria-current="page">My account<span class="dropdown-toggle" tabindex="0"></span></a> 
+         <ul class="sub-menu"> 
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-103"><a href="http://alphaxyph.me/track-order/">Track Order</a></li> 
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-98"><a href="http://alphaxyph.me/checkout/">Checkout</a></li> 
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-102"><a href="http://alphaxyph.me/wishlist/">Wishlist</a></li> 
+         </ul> </li> 
+        <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-11 current_page_item menu-item-108"><a href="http://alphaxyph.me/my-account/" aria-current="page">Login/Register</a></li> 
+        <li class="woo-menu-icon wcmenucart-toggle-drop_down toggle-cart-widget"> <a href="http://alphaxyph.me/cart/" class="wcmenucart"> <span class="wcmenucart-count"><i class=" icon-handbag" aria-hidden="true" role="img"></i><span class="wcmenucart-details count">0</span></span> </a> 
+         <div class="current-shop-items-dropdown owp-mini-cart clr"> 
+          <div class="current-shop-items-inner clr"> 
+           <div class="widget woocommerce widget_shopping_cart">
+            <div class="widget_shopping_cart_content"></div>
+           </div> 
+          </div> 
+         </div> </li> 
+        <li class="search-toggle-li"><a href="javascript:void(0)" class="site-search-toggle search-dropdown-toggle" aria-label="Search website"><i class=" icon-magnifier" aria-hidden="true" role="img"></i></a></li>
+       </ul> 
+       <div id="mobile-menu-search" class="clr"> 
+        <form aria-label="Search this website" method="get" action="http://alphaxyph.me/" class="mobile-searchform" role="search"> 
+         <input aria-label="Insert search query" value="" class="field" id="ocean-mobile-search-2" type="search" name="s" autocomplete="off" placeholder="Search"> 
+         <button aria-label="Submit search" type="submit" class="searchform-submit"> <i class=" icon-magnifier" aria-hidden="true" role="img"></i> </button> 
+        </form> 
+       </div>
+       <!-- .mobile-menu-search --> 
+      </nav> 
+     </div> 
+    </header>
+    <!-- #site-header --> 
+    <main id="main" class="site-main clr" role="main"> 
+     <header class="page-header"> 
+      <div class="container clr page-header-inner"> 
+       <h1 class="page-header-title clr" itemprop="headline">My account</h1> 
+       <nav aria-label="Breadcrumbs" class="site-breadcrumbs clr position-" itemprop="breadcrumb">
+        <ol class="trail-items" itemscope itemtype="http://schema.org/BreadcrumbList">
+         <meta name="numberOfItems" content="2">
+         <meta name="itemListOrder" content="Ascending">
+         <li class="trail-item trail-begin" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a href="http://alphaxyph.me" rel="home" aria-label="Home" itemtype="https://schema.org/Thing" itemprop="item"><span itemprop="name"><i class=" icon-home" aria-hidden="true" role="img"></i><span class="breadcrumb-home has-icon">Home</span></span></a><span class="breadcrumb-sep">&gt;</span>
+          <meta content="1" itemprop="position"></li>
+         <li class="trail-item trail-end" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a href="http://alphaxyph.me/my-account/" itemtype="https://schema.org/Thing" itemprop="item"><span itemprop="name">My account</span></a>
+          <meta content="2" itemprop="position"></li>
+        </ol>
+       </nav> 
+      </div>
+      <!-- .page-header-inner --> 
+     </header>
+     <!-- .page-header --> 
+     <div id="content-wrap" class="container clr"> 
+      <div id="primary" class="content-area clr"> 
+       <div id="content" class="site-content clr"> 
+        <article class="single-page-article clr"> 
+         <div class="entry clr" itemprop="text"> 
+          <div class="woocommerce">
+           <div class="woocommerce-notices-wrapper"></div>
+           <ul class="owp-account-links">
+            <li class="login"><a href="#" class="owp-account-link current">Login</a></li>
+            <li class="or">Or</li>
+            <li class="register"><a href="#" class="owp-account-link">Register</a></li>
+           </ul> 
+           <div class="u-columns col2-set" id="customer_login"> 
+            <div class="u-column1 col-1"> 
+             <h2>Login</h2> 
+             <form class="woocommerce-form woocommerce-form-login login" method="post"> 
+              <p class="woocommerce-form-row woocommerce-form-row--wide form-row form-row-wide"> <label for="username">Username or email address&nbsp;<span class="required">*</span></label> <input type="text" class="woocommerce-Input woocommerce-Input--text input-text" name="username" id="username" autocomplete="username" value=""> </p> 
+              <p class="woocommerce-form-row woocommerce-form-row--wide form-row form-row-wide"> <label for="password">Password&nbsp;<span class="required">*</span></label> <input class="woocommerce-Input woocommerce-Input--text input-text" type="password" name="password" id="password" autocomplete="current-password"> </p> 
+              <p class="form-row"> <label class="woocommerce-form__label woocommerce-form__label-for-checkbox woocommerce-form-login__rememberme"> <input class="woocommerce-form__input woocommerce-form__input-checkbox" name="rememberme" type="checkbox" id="rememberme" value="forever"> <span>Remember me</span> </label> <input type="hidden" id="woocommerce-login-nonce" name="woocommerce-login-nonce" value="9d0b946bf6"><input type="hidden" name="_wp_http_referer" value="/my-account/"> <button type="submit" class="woocommerce-button button woocommerce-form-login__submit" name="login" value="Log in">Log in</button> </p> 
+              <p class="woocommerce-LostPassword lost_password"> <a href="http://alphaxyph.me/my-account/lost-password/">Lost your password?</a> </p> 
+             </form> 
+            </div> 
+            <div class="u-column2 col-2"> 
+             <h2>Register</h2> 
+             <form method="post" class="woocommerce-form woocommerce-form-register register"> 
+              <p class="woocommerce-form-row woocommerce-form-row--wide form-row form-row-wide"> <label for="reg_email">Email address&nbsp;<span class="required">*</span></label> <input type="email" class="woocommerce-Input woocommerce-Input--text input-text" name="email" id="reg_email" autocomplete="email" value=""> </p> 
+              <p>A password will be sent to your email address.</p> 
+              <div class="woocommerce-privacy-policy-text">
+               <p>Your personal data will be used to support your experience throughout this website, to manage access to your account, and for other purposes described in our <a href="http://alphaxyph.me/?page_id=3" class="woocommerce-privacy-policy-link" target="_blank">privacy policy</a>.</p> 
+              </div> 
+              <p class="woocommerce-form-row form-row"> <input type="hidden" id="woocommerce-register-nonce" name="woocommerce-register-nonce" value="89fb1ad30a"><input type="hidden" name="_wp_http_referer" value="/my-account/"> <button type="submit" class="woocommerce-Button woocommerce-button button woocommerce-form-register__submit" name="register" value="Register">Register</button> </p> 
+             </form> 
+            </div> 
+           </div> 
+          </div> 
+         </div> 
+        </article> 
+       </div>
+       <!-- #content --> 
+      </div>
+      <!-- #primary --> 
+      <aside id="right-sidebar" class="sidebar-container widget-area sidebar-primary" itemscope itemtype="https://schema.org/WPSideBar" role="complementary" aria-label="Primary Sidebar"> 
+       <div id="right-sidebar-inner" class="clr"> 
+        <div id="block-2" class="sidebar-box widget_block widget_search clr">
+         <form role="search" method="get" action="http://alphaxyph.me/" class="wp-block-search__button-outside wp-block-search__text-button wp-block-search">
+          <label for="wp-block-search__input-1" class="wp-block-search__label">Search</label>
+          <div class="wp-block-search__inside-wrapper">
+           <input type="search" id="wp-block-search__input-1" class="wp-block-search__input" name="s" value="" placeholder="" required>
+           <button type="submit" class="wp-block-search__button ">Search</button>
+          </div>
+         </form>
+        </div>
+        <div id="block-3" class="sidebar-box widget_block clr">
+         <div class="wp-block-group">
+          <div class="wp-block-group__inner-container">
+           <h2>Recent Posts</h2>
+           <ul class="wp-block-latest-posts__list wp-block-latest-posts"></ul>
+          </div>
+         </div>
+        </div>
+        <div id="block-4" class="sidebar-box widget_block clr">
+         <div class="wp-block-group">
+          <div class="wp-block-group__inner-container">
+           <h2>Recent Comments</h2>
+           <div class="no-comments wp-block-latest-comments">
+            No comments to show.
+           </div>
+          </div>
+         </div>
+        </div> 
+       </div>
+       <!-- #sidebar-inner --> 
+      </aside>
+      <!-- #right-sidebar --> 
+     </div>
+     <!-- #content-wrap --> 
+    </main>
+    <!-- #main --> 
+    <footer id="footer" class="site-footer" itemscope itemtype="https://schema.org/WPFooter" role="contentinfo"> 
+     <div id="footer-inner" class="clr"> 
+      <div id="footer-widgets" class="oceanwp-row clr"> 
+       <div class="footer-widgets-inner container"> 
+        <div class="footer-box span_1_of_4 col col-1"> 
+        </div>
+        <!-- .footer-one-box --> 
+        <div class="footer-box span_1_of_4 col col-2"> 
+        </div>
+        <!-- .footer-one-box --> 
+        <div class="footer-box span_1_of_4 col col-3 "> 
+        </div>
+        <!-- .footer-one-box --> 
+        <div class="footer-box span_1_of_4 col col-4"> 
+        </div>
+        <!-- .footer-box --> 
+       </div>
+       <!-- .container --> 
+      </div>
+      <!-- #footer-widgets --> 
+      <div id="footer-bottom" class="clr no-footer-nav"> 
+       <div id="footer-bottom-inner" class="container clr"> 
+        <div id="copyright" class="clr" role="contentinfo">
+          Copyright - OceanWP Theme by Nick 
+        </div>
+        <!-- #copyright --> 
+       </div>
+       <!-- #footer-bottom-inner --> 
+      </div>
+      <!-- #footer-bottom --> 
+     </div>
+     <!-- #footer-inner --> 
+    </footer>
+    <!-- #footer --> 
+   </div>
+   <!-- #wrap --> 
+  </div>
+  <!-- #outer-wrap --> 
+  <a aria-label="Scroll to the top of the page" href="#" id="scroll-top" class="scroll-top-right"><i class=" fa fa-angle-up" aria-hidden="true" role="img"></i></a> 
+  <script type="text/html" id="tmpl-woo-variation-gallery-slider-template">
+	    <div class="wvg-gallery-image">
+        <div>
+            <# if( data.srcset ){ #>
+            <div class="wvg-single-gallery-image-container">
+                <img loading="lazy" class="{{data.class}}" width="{{data.src_w}}" height="{{data.src_h}}" src="{{data.src}}" alt="{{data.alt}}" title="{{data.title}}" data-caption="{{data.caption}}" data-src="{{data.full_src}}" data-large_image="{{data.full_src}}" data-large_image_width="{{data.full_src_w}}" data-large_image_height="{{data.full_src_h}}" srcset="{{data.srcset}}" sizes="{{data.sizes}}" {{data.extra_params}}/>
+            </div>
+            <# } #>
+
+            <# if( !data.srcset ){ #>
+            <div class="wvg-single-gallery-image-container">
+                <img loading="lazy" class="{{data.class}}" width="{{data.src_w}}" height="{{data.src_h}}" src="{{data.src}}" alt="{{data.alt}}" title="{{data.title}}" data-caption="{{data.caption}}" data-src="{{data.full_src}}" data-large_image="{{data.full_src}}" data-large_image_width="{{data.full_src_w}}" data-large_image_height="{{data.full_src_h}}" sizes="{{data.sizes}}" {{data.extra_params}}/>
+            </div>
+            <# } #>
+        </div>
+    </div>
+	</script> 
+  <script type="text/html" id="tmpl-woo-variation-gallery-thumbnail-template">
+    <div class="wvg-gallery-thumbnail-image">
+        <div>
+            <img class="{{data.gallery_thumbnail_class}}" width="{{data.gallery_thumbnail_src_w}}" height="{{data.gallery_thumbnail_src_h}}" src="{{data.gallery_thumbnail_src}}" alt="{{data.alt}}" title="{{data.title}}" />
+        </div>
+    </div>
+</script> 
+  <div id="owp-qv-wrap"> 
+   <div class="owp-qv-container"> 
+    <div class="owp-qv-content-wrap"> 
+     <div class="owp-qv-content-inner"> 
+      <a href="#" class="owp-qv-close" aria-label="Close quick preview">×</a> 
+      <div id="owp-qv-content" class="woocommerce single-product"></div> 
+     </div> 
+    </div> 
+   </div> 
+   <div class="owp-qv-overlay"></div> 
+  </div> 
+  <div id="oceanwp-cart-sidebar-wrap">
+   <div class="oceanwp-cart-sidebar">
+    <a href="#" class="oceanwp-cart-close">×</a>
+    <p class="owp-cart-title">Cart</p>
+    <div class="divider"></div>
+    <div class="owp-mini-cart">
+     <div class="widget woocommerce widget_shopping_cart">
+      <div class="widget_shopping_cart_content"></div>
+     </div>
+    </div>
+   </div>
+   <div class="oceanwp-cart-sidebar-overlay"></div>
+  </div> 
+  <script type="text/javascript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script> 
+  <script id="thickbox-js-extra">
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"http:\/\/alphaxyph.me\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+</script> 
+  <script id="wc-add-to-cart-js-extra">
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"http:\/\/alphaxyph.me\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+</script> 
+  <script id="woocommerce-js-extra">
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+</script> 
+  <script id="wc-cart-fragments-js-extra">
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_4ba4c8133a82057a07d62b008649e08b","fragment_name":"wc_fragments_4ba4c8133a82057a07d62b008649e08b","request_timeout":"5000"};
+</script> 
+  <script id="tinvwl-js-extra">
+var tinvwl_add_to_wishlist = {"text_create":"Create New","text_already_in":"{product_name} already in Wishlist","simple_flow":"","hide_zero_counter":"","i18n_make_a_selection_text":"Please select some product options before adding this product to your wishlist.","tinvwl_break_submit":"No items or actions are selected.","tinvwl_clipboard":"Copied!","allow_parent_variable":"","block_ajax_wishlists_data":"","update_wishlists_data":"","hash_key":"ti_wishlist_data_4ba4c8133a82057a07d62b008649e08b","nonce":"bf2c23d4f4","rest_root":"http:\/\/alphaxyph.me\/wp-json\/","plugin_url":"http:\/\/alphaxyph.me\/wp-content\/plugins\/ti-woocommerce-wishlist\/"};
+</script> 
+  <script id="oceanwp-main-js-extra">
+var oceanwpLocalize = {"nonce":"95f1a9d353","isRTL":"","menuSearchStyle":"drop_down","mobileMenuSearchStyle":"disabled","sidrSource":null,"sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","wooCartStyle":"drop_down","ajax_url":"http:\/\/alphaxyph.me\/wp-admin\/admin-ajax.php","cart_url":"http:\/\/alphaxyph.me\/cart\/","cart_redirect_after_add":"no","view_cart":"View cart","floating_bar":"on","grouped_text":"View products","multistep_checkout_error":"Some required fields are empty. Please fill the required fields to go to the next step."};
+</script> 
+  <script id="oceanwp-woocommerce-custom-features-js-extra">
+var oceanwpLocalize = {"nonce":"95f1a9d353","isRTL":"","menuSearchStyle":"drop_down","mobileMenuSearchStyle":"disabled","sidrSource":null,"sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","wooCartStyle":"drop_down","ajax_url":"http:\/\/alphaxyph.me\/wp-admin\/admin-ajax.php","cart_url":"http:\/\/alphaxyph.me\/cart\/","cart_redirect_after_add":"no","view_cart":"View cart","floating_bar":"on","grouped_text":"View products","multistep_checkout_error":"Some required fields are empty. Please fill the required fields to go to the next step."};
+</script> 
+  <script id="elementskit-framework-js-frontend-js-after">
+		var elementskit = {
+            resturl: 'http://alphaxyph.me/wp-json/elementskit/v1/',
+        }
+
+		
+</script> 
+  <script id="wp-util-js-extra">
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+</script> 
+  <script id="wc-add-to-cart-variation-js-extra">
+var wc_add_to_cart_variation_params = {"wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_no_matching_variations_text":"Sorry, no products matched your selection. Please choose a different combination.","i18n_make_a_selection_text":"Please select some product options before adding this product to your cart.","i18n_unavailable_text":"Sorry, this product is unavailable. Please choose a different combination."};
+</script> 
+  <script id="woo-variation-swatches-js-extra">
+var woo_variation_swatches_options = {"is_product_page":"","show_variation_label":"1","variation_label_separator":":","wvs_nonce":"bf7f2910a1"};
+</script> 
+  <script id="woo-variation-gallery-js-extra">
+var woo_variation_gallery_options = {"gallery_reset_on_variation_change":"","enable_gallery_zoom":"1","enable_gallery_lightbox":"1","enable_gallery_preload":"1","preloader_disable":"","enable_thumbnail_slide":"1","gallery_thumbnails_columns":"4","is_vertical":"","thumbnail_position":"bottom","thumbnail_position_class_prefix":"woo-variation-gallery-thumbnail-position-","is_mobile":"1","gallery_default_device_width":"40","gallery_medium_device_width":"0","gallery_small_device_width":"720","gallery_extra_small_device_width":"320"};
+</script> 
+  <!--[if lt IE 9]>
+ 
+<![endif]--> 
+ </body>
+</html>
