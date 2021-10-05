@@ -1,0 +1,760 @@
+<!DOCTYPE html>
+<html class="html" lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+
+	<title>Checkout &#8211; Online Mobile shop</title>
+<meta name='robots' content='max-image-preview:large, noindex, follow' />
+<meta name="viewport" content="width=device-width, initial-scale=1"><link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Online Mobile shop &raquo; Feed" href="http://alphaxyph.me/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Online Mobile shop &raquo; Comments Feed" href="http://alphaxyph.me/comments/feed/" />
+		<script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/alphaxyph.me\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8.1"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style>
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='dashicons-css'  href='http://alphaxyph.me/wp-includes/css/dashicons.min.css?ver=5.8.1' media='all' />
+<link rel='stylesheet' id='thickbox-css'  href='http://alphaxyph.me/wp-includes/js/thickbox/thickbox.css?ver=5.8.1' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='http://alphaxyph.me/wp-includes/css/dist/block-library/style.min.css?ver=5.8.1' media='all' />
+<style id='wp-block-library-theme-inline-css'>
+#start-resizable-editor-section{display:none}.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:hsla(0,0%,100%,.65)}.wp-block-code{font-family:Menlo,Consolas,monaco,monospace;color:#1e1e1e;padding:.8em 1em;border:1px solid #ddd;border-radius:4px}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:hsla(0,0%,100%,.65)}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-pullquote{border-top:4px solid;border-bottom:4px solid;margin-bottom:1.75em;color:currentColor}.wp-block-pullquote__citation,.wp-block-pullquote cite,.wp-block-pullquote footer{color:currentColor;text-transform:uppercase;font-size:.8125em;font-style:normal}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;position:relative;font-style:normal}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-group.has-background{padding:1.25em 2.375em;margin-top:0;margin-bottom:0}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto;opacity:.4}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table thead{border-bottom:3px solid}.wp-block-table tfoot{border-top:3px solid}.wp-block-table td,.wp-block-table th{padding:.5em;border:1px solid;word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:hsla(0,0%,100%,.65)}.wp-block-template-part.has-background{padding:1.25em 2.375em;margin-top:0;margin-bottom:0}#end-resizable-editor-section{display:none}
+</style>
+<link rel='stylesheet' id='wc-blocks-vendors-style-css'  href='http://alphaxyph.me/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=5.7.2' media='all' />
+<link rel='stylesheet' id='wc-blocks-style-css'  href='http://alphaxyph.me/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=5.7.2' media='all' />
+<link rel='stylesheet' id='eh-style-css'  href='http://alphaxyph.me/wp-content/plugins/payment-gateway-stripe-and-woocommerce-integration/assets/css/eh-style.css?ver=3.6.5' media='all' />
+<link rel='stylesheet' id='sticky-header-oceanwp-style-css'  href='http://alphaxyph.me/wp-content/plugins/sticky-header-oceanwp//style.css?ver=5.8.1' media='all' />
+<link rel='stylesheet' id='select2-css'  href='http://alphaxyph.me/wp-content/plugins/woocommerce/assets/css/select2.css?ver=5.7.1' media='all' />
+<style id='woocommerce-inline-inline-css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='preload' as='font' type='font/woff2' crossorigin='anonymous' id='tinvwl-webfont-font-css'  href='http://alphaxyph.me/wp-content/plugins/ti-woocommerce-wishlist/assets/fonts/tinvwl-webfont.woff2?ver=xu2uyi' media='all' />
+<link rel='stylesheet' id='tinvwl-webfont-css'  href='http://alphaxyph.me/wp-content/plugins/ti-woocommerce-wishlist/assets/css/webfont.min.css?ver=1.28.4' media='all' />
+<link rel='stylesheet' id='tinvwl-css'  href='http://alphaxyph.me/wp-content/plugins/ti-woocommerce-wishlist/assets/css/public.min.css?ver=1.28.4' media='all' />
+<link rel='stylesheet' id='oceanwp-woo-mini-cart-css'  href='http://alphaxyph.me/wp-content/themes/oceanwp/assets/css/woo/woo-mini-cart.min.css?ver=5.8.1' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://alphaxyph.me/wp-content/themes/oceanwp/assets/fonts/fontawesome/css/all.min.css?ver=5.15.1' media='all' />
+<link rel='stylesheet' id='simple-line-icons-css'  href='http://alphaxyph.me/wp-content/themes/oceanwp/assets/css/third/simple-line-icons.min.css?ver=2.4.0' media='all' />
+<link rel='stylesheet' id='oceanwp-style-css'  href='http://alphaxyph.me/wp-content/themes/oceanwp/assets/css/style.min.css?ver=3.0.7' media='all' />
+<link rel='stylesheet' id='elementor-icons-ekiticons-css'  href='http://alphaxyph.me/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/css/ekiticons.css?ver=2.3.7' media='all' />
+<link rel='stylesheet' id='woo-variation-swatches-css'  href='http://alphaxyph.me/wp-content/plugins/woo-variation-swatches/assets/css/frontend.min.css?ver=1.1.19' media='all' />
+<style id='woo-variation-swatches-inline-css'>
+.variable-item:not(.radio-variable-item) { width : 30px; height : 30px; } .wvs-style-squared .button-variable-item { min-width : 30px; } .button-variable-item span { font-size : 16px; }
+</style>
+<link rel='stylesheet' id='woo-variation-swatches-theme-override-css'  href='http://alphaxyph.me/wp-content/plugins/woo-variation-swatches/assets/css/wvs-theme-override.min.css?ver=1.1.19' media='all' />
+<link rel='stylesheet' id='woo-variation-swatches-tooltip-css'  href='http://alphaxyph.me/wp-content/plugins/woo-variation-swatches/assets/css/frontend-tooltip.min.css?ver=1.1.19' media='all' />
+<link rel='stylesheet' id='woo-variation-gallery-slider-css'  href='http://alphaxyph.me/wp-content/plugins/woo-variation-gallery/assets/css/slick.min.css?ver=1.8.1' media='all' />
+<link rel='stylesheet' id='woo-variation-gallery-css'  href='http://alphaxyph.me/wp-content/plugins/woo-variation-gallery/assets/css/frontend.min.css?ver=1.2.7' media='all' />
+<style id='woo-variation-gallery-inline-css'>
+:root { --wvg-thumbnail-item-gap : 0px; --wvg-single-image-size : 600px; --wvg-gallery-width : 40%; --wvg-gallery-margin : 30px; } /* Default Width */ .woo-variation-product-gallery { max-width : 40% !important; } /* Medium Devices, Desktops */ /* Small Devices, Tablets */ @media only screen and (max-width : 768px) { .woo-variation-product-gallery { width : 720px; max-width : 100% !important; } } /* Extra Small Devices, Phones */ @media only screen and (max-width : 480px) { .woo-variation-product-gallery { width : 320px; max-width : 100% !important; } }
+</style>
+<link rel='stylesheet' id='woo-variation-gallery-theme-support-css'  href='http://alphaxyph.me/wp-content/plugins/woo-variation-gallery/assets/css/theme-support.min.css?ver=1.2.7' media='all' />
+<link rel='stylesheet' id='oceanwp-woocommerce-css'  href='http://alphaxyph.me/wp-content/themes/oceanwp/assets/css/woo/woocommerce.min.css?ver=5.8.1' media='all' />
+<link rel='stylesheet' id='oceanwp-woo-star-font-css'  href='http://alphaxyph.me/wp-content/themes/oceanwp/assets/css/woo/woo-star-font.min.css?ver=5.8.1' media='all' />
+<link rel='stylesheet' id='oceanwp-woo-quick-view-css'  href='http://alphaxyph.me/wp-content/themes/oceanwp/assets/css/woo/woo-quick-view.min.css?ver=5.8.1' media='all' />
+<link rel='stylesheet' id='oceanwp-wishlist-css'  href='http://alphaxyph.me/wp-content/themes/oceanwp/assets/css/woo/wishlist.min.css?ver=5.8.1' media='all' />
+<link rel='stylesheet' id='ekit-widget-styles-css'  href='http://alphaxyph.me/wp-content/plugins/elementskit-lite/widgets/init/assets/css/widget-styles.css?ver=2.3.7' media='all' />
+<link rel='stylesheet' id='ekit-responsive-css'  href='http://alphaxyph.me/wp-content/plugins/elementskit-lite/widgets/init/assets/css/responsive.css?ver=2.3.7' media='all' />
+<link rel='stylesheet' id='oe-widgets-style-css'  href='http://alphaxyph.me/wp-content/plugins/ocean-extra/assets/css/widgets.css?ver=5.8.1' media='all' />
+<link rel='stylesheet' id='ops-product-share-style-css'  href='http://alphaxyph.me/wp-content/plugins/ocean-product-sharing/assets/css/style.min.css?ver=5.8.1' media='all' />
+<link rel='stylesheet' id='oss-social-share-style-css'  href='http://alphaxyph.me/wp-content/plugins/ocean-social-sharing/assets/css/style.min.css?ver=5.8.1' media='all' />
+<script type="text/template" id="tmpl-variation-template">
+	<div class="woocommerce-variation-description">{{{ data.variation.variation_description }}}</div>
+	<div class="woocommerce-variation-price">{{{ data.variation.price_html }}}</div>
+	<div class="woocommerce-variation-availability">{{{ data.variation.availability_html }}}</div>
+</script>
+<script type="text/template" id="tmpl-unavailable-variation-template">
+	<p>Sorry, this product is unavailable. Please choose a different combination.</p>
+</script>
+<script src='http://alphaxyph.me/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script src='http://alphaxyph.me/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script src='http://alphaxyph.me/wp-content/plugins/sticky-header-oceanwp//main.js?ver=1.0.0' id='sticky-header-oceanwp-js'></script>
+<script src='https://js.stripe.com/v3/?ver=5.8.1' id='stripe_v3_js-js'></script>
+<script src='http://alphaxyph.me/wp-content/themes/oceanwp/assets/js/vendors/smoothscroll.min.js?ver=3.0.7' id='ow-smoothscroll-js'></script>
+<link rel="https://api.w.org/" href="http://alphaxyph.me/wp-json/" /><link rel="alternate" type="application/json" href="http://alphaxyph.me/wp-json/wp/v2/pages/10" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://alphaxyph.me/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://alphaxyph.me/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.8.1" />
+<meta name="generator" content="WooCommerce 5.7.1" />
+<link rel="canonical" href="http://alphaxyph.me/checkout/" />
+<link rel='shortlink' href='http://alphaxyph.me/?p=10' />
+<link rel="alternate" type="application/json+oembed" href="http://alphaxyph.me/wp-json/oembed/1.0/embed?url=http%3A%2F%2Falphaxyph.me%2Fcheckout%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://alphaxyph.me/wp-json/oembed/1.0/embed?url=http%3A%2F%2Falphaxyph.me%2Fcheckout%2F&#038;format=xml" />
+        <script type="text/javascript">
+            ( function () {
+                window.lae_fs = { can_use_premium_code: false};
+            } )();
+        </script>
+        <script>var sticky_header_style = "";</script>	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+			<style id="wp-custom-css">
+			h3.premium-banner-ib-title.premium_banner_title{background-color:#dd8601}		</style>
+		<!-- OceanWP CSS -->
+<style type="text/css">
+/* Header CSS */#site-header.has-header-media .overlay-header-media{background-color:rgba(0,0,0,0.5)}/* WooCommerce CSS */#owp-checkout-timeline .timeline-step{color:#cccccc}#owp-checkout-timeline .timeline-step{border-color:#cccccc}
+</style></head>
+
+<body class="page-template-default page page-id-10 wp-embed-responsive theme-oceanwp woocommerce-checkout woocommerce-page woocommerce-no-js tinvwl-theme-style woo-variation-gallery woo-variation-gallery-theme-oceanwp woo-variation-gallery-theme-child-oceanwp woo-variation-swatches wvs-theme-oceanwp wvs-theme-child-oceanwp wvs-style-squared wvs-attr-behavior-blur wvs-tooltip wvs-css wvs-show-label oceanwp-theme dropdown-mobile default-breakpoint has-sidebar content-right-sidebar has-topbar has-breadcrumbs has-grid-list account-original-style elementor-default elementor-kit-6" itemscope="itemscope" itemtype="https://schema.org/WebPage">
+
+	
+	
+	<div id="outer-wrap" class="site clr">
+
+		<a class="skip-link screen-reader-text" href="#main">Skip to content</a>
+
+		
+		<div id="wrap" class="clr">
+
+			
+
+<div id="top-bar-wrap" class="clr">
+
+	<div id="top-bar" class="clr container has-no-content">
+
+		
+		<div id="top-bar-inner" class="clr">
+
+			
+
+		</div><!-- #top-bar-inner -->
+
+		
+	</div><!-- #top-bar -->
+
+</div><!-- #top-bar-wrap -->
+
+
+			
+<header id="site-header" class="minimal-header clr" data-height="74" itemscope="itemscope" itemtype="https://schema.org/WPHeader" role="banner">
+
+	
+					
+			<div id="site-header-inner" class="clr container">
+
+				
+				
+
+<div id="site-logo" class="clr" itemscope itemtype="https://schema.org/Brand" >
+
+	
+	<div id="site-logo-inner" class="clr">
+
+						<a href="http://alphaxyph.me/" rel="home" class="site-title site-logo-text" >Online Mobile shop</a>
+				
+	</div><!-- #site-logo-inner -->
+
+	
+	
+</div><!-- #site-logo -->
+
+			<div id="site-navigation-wrap" class="clr">
+			
+			
+			
+			<nav id="site-navigation" class="navigation main-navigation clr" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" role="navigation" >
+
+				<ul id="menu-main-menu" class="main-menu dropdown-menu sf-menu"><li id="menu-item-96" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-96"><a href="http://alphaxyph.me/" class="menu-link"><span class="text-wrap">Home</span></a></li><li id="menu-item-101" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-101"><a href="http://alphaxyph.me/shop/" class="menu-link"><span class="text-wrap">Shop</span></a></li><li id="menu-item-99" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-99"><a href="http://alphaxyph.me/contact-us/" class="menu-link"><span class="text-wrap">Contact Us</span></a></li><li id="menu-item-97" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-97"><a href="http://alphaxyph.me/cart/" class="menu-link"><span class="text-wrap">Cart</span></a></li><li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children dropdown menu-item-100"><a href="http://alphaxyph.me/my-account/" class="menu-link"><span class="text-wrap">My account<i class="nav-arrow fa fa-angle-down" aria-hidden="true" role="img"></i></span></a>
+<ul class="sub-menu">
+	<li id="menu-item-103" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-103"><a href="http://alphaxyph.me/track-order/" class="menu-link"><span class="text-wrap">Track Order</span></a></li>	<li id="menu-item-98" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-10 current_page_item menu-item-98"><a href="http://alphaxyph.me/checkout/" class="menu-link"><span class="text-wrap">Checkout</span></a></li>	<li id="menu-item-102" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-102"><a href="http://alphaxyph.me/wishlist/" class="menu-link"><span class="text-wrap">Wishlist</span></a></li></ul>
+</li><li id="menu-item-108" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108"><a href="http://alphaxyph.me/my-account/" class="menu-link"><span class="text-wrap">Login/Register</span></a></li>
+			<li class="woo-menu-icon wcmenucart-toggle-custom_link toggle-cart-widget">
+				
+			<a href="http://alphaxyph.me/cart/" class="wcmenucart">
+				<span class="wcmenucart-count"><i class=" icon-handbag" aria-hidden="true" role="img"></i><span class="wcmenucart-details count">1</span></span>
+			</a>
+
+										</li>
+
+			<li class="search-toggle-li" ><a href="javascript:void(0)" class="site-search-toggle search-dropdown-toggle" aria-label="Search website"><i class=" icon-magnifier" aria-hidden="true" role="img"></i></a></li></ul>
+<div id="searchform-dropdown" class="header-searchform-wrap clr" >
+	
+<form role="search" method="get" class="searchform" action="http://alphaxyph.me/">
+	<label for="ocean-search-form-1">
+		<span class="screen-reader-text">Search this website</span>
+		<input type="search" id="ocean-search-form-1" class="field" autocomplete="off" placeholder="Search" name="s">
+			</label>
+	</form>
+</div><!-- #searchform-dropdown -->
+
+			</nav><!-- #site-navigation -->
+
+			
+			
+					</div><!-- #site-navigation-wrap -->
+			
+		
+	
+				
+	
+	<div class="oceanwp-mobile-menu-icon clr mobile-right">
+
+		
+		
+		
+			<a href="http://alphaxyph.me/cart/" class="wcmenucart">
+				<span class="wcmenucart-count"><i class=" icon-handbag" aria-hidden="true" role="img"></i><span class="wcmenucart-details count">1</span></span>
+			</a>
+
+			
+		<a href="javascript:void(0)" class="mobile-menu"  aria-label="Mobile Menu">
+							<i class="fa fa-bars" aria-hidden="true"></i>
+								<span class="oceanwp-text">Menu</span>
+				<span class="oceanwp-close-text">Close</span>
+						</a>
+
+		
+		
+		
+	</div><!-- #oceanwp-mobile-menu-navbar -->
+
+	
+
+			</div><!-- #site-header-inner -->
+
+			
+<div id="mobile-dropdown" class="clr" >
+
+	<nav class="clr" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement">
+
+		<ul id="menu-main-menu-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-96"><a href="http://alphaxyph.me/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-101"><a href="http://alphaxyph.me/shop/">Shop</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-99"><a href="http://alphaxyph.me/contact-us/">Contact Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-97"><a href="http://alphaxyph.me/cart/">Cart</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-100"><a href="http://alphaxyph.me/my-account/">My account</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-103"><a href="http://alphaxyph.me/track-order/">Track Order</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-10 current_page_item menu-item-98"><a href="http://alphaxyph.me/checkout/" aria-current="page">Checkout</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-102"><a href="http://alphaxyph.me/wishlist/">Wishlist</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108"><a href="http://alphaxyph.me/my-account/">Login/Register</a></li>
+
+			<li class="woo-menu-icon wcmenucart-toggle-custom_link toggle-cart-widget">
+				
+			<a href="http://alphaxyph.me/cart/" class="wcmenucart">
+				<span class="wcmenucart-count"><i class=" icon-handbag" aria-hidden="true" role="img"></i><span class="wcmenucart-details count">1</span></span>
+			</a>
+
+										</li>
+
+			<li class="search-toggle-li" ><a href="javascript:void(0)" class="site-search-toggle search-dropdown-toggle" aria-label="Search website"><i class=" icon-magnifier" aria-hidden="true" role="img"></i></a></li></ul>
+<div id="mobile-menu-search" class="clr">
+	<form aria-label="Search this website" method="get" action="http://alphaxyph.me/" class="mobile-searchform" role="search">
+		<input aria-label="Insert search query" value="" class="field" id="ocean-mobile-search-2" type="search" name="s" autocomplete="off" placeholder="Search" />
+		<button aria-label="Submit search" type="submit" class="searchform-submit">
+			<i class=" icon-magnifier" aria-hidden="true" role="img"></i>		</button>
+					</form>
+</div><!-- .mobile-menu-search -->
+
+	</nav>
+
+</div>
+
+			
+			
+		
+		
+</header><!-- #site-header -->
+
+
+			
+			<main id="main" class="site-main clr"  role="main">
+
+				
+
+<header class="page-header">
+
+	
+	<div class="container clr page-header-inner">
+
+		
+			<h1 class="page-header-title clr" itemprop="headline">Checkout</h1>
+
+			
+		
+		<nav aria-label="Breadcrumbs" class="site-breadcrumbs clr position-" itemprop="breadcrumb"><ol class="trail-items" itemscope itemtype="http://schema.org/BreadcrumbList"><meta name="numberOfItems" content="2" /><meta name="itemListOrder" content="Ascending" /><li class="trail-item trail-begin" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a href="http://alphaxyph.me" rel="home" aria-label="Home" itemtype="https://schema.org/Thing" itemprop="item"><span itemprop="name"><i class=" icon-home" aria-hidden="true" role="img"></i><span class="breadcrumb-home has-icon">Home</span></span></a><span class="breadcrumb-sep">></span><meta content="1" itemprop="position" /></li><li class="trail-item trail-end" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a href="http://alphaxyph.me/checkout/" itemtype="https://schema.org/Thing" itemprop="item"><span itemprop="name">Checkout</span></a><meta content="2" itemprop="position" /></li></ol></nav>
+	</div><!-- .page-header-inner -->
+
+	
+	
+</header><!-- .page-header -->
+
+
+	
+	<div id="content-wrap" class="container clr">
+
+		
+		<div id="primary" class="content-area clr">
+
+			
+			<div id="content" class="site-content clr">
+
+				
+				
+<article class="single-page-article clr">
+
+	
+<div class="entry clr" itemprop="text">
+
+	
+	<div class="woocommerce"><div class="woocommerce-notices-wrapper"></div><div class="woocommerce-form-login-toggle">
+	
+	<div class="woocommerce-info">
+		Returning customer? <a href="#" class="showlogin">Click here to login</a>	</div>
+</div>
+<form class="woocommerce-form woocommerce-form-login login" method="post" style="display:none;">
+
+	
+	<p>If you have shopped with us before, please enter your details below. If you are a new customer, please proceed to the Billing section.</p>
+
+	<p class="form-row form-row-first">
+		<label for="username">Username or email&nbsp;<span class="required">*</span></label>
+		<input type="text" class="input-text" name="username" id="username" autocomplete="username" />
+	</p>
+	<p class="form-row form-row-last">
+		<label for="password">Password&nbsp;<span class="required">*</span></label>
+		<input class="input-text" type="password" name="password" id="password" autocomplete="current-password" />
+	</p>
+	<div class="clear"></div>
+
+	
+	<p class="form-row">
+		<label class="woocommerce-form__label woocommerce-form__label-for-checkbox woocommerce-form-login__rememberme">
+			<input class="woocommerce-form__input woocommerce-form__input-checkbox" name="rememberme" type="checkbox" id="rememberme" value="forever" /> <span>Remember me</span>
+		</label>
+		<input type="hidden" id="woocommerce-login-nonce" name="woocommerce-login-nonce" value="f73613183a" /><input type="hidden" name="_wp_http_referer" value="/checkout/" />		<input type="hidden" name="redirect" value="http://alphaxyph.me/checkout/" />
+		<button type="submit" class="woocommerce-button button woocommerce-form-login__submit" name="login" value="Login">Login</button>
+	</p>
+	<p class="lost_password">
+		<a href="http://alphaxyph.me/my-account/lost-password/">Lost your password?</a>
+	</p>
+
+	<div class="clear"></div>
+
+	
+</form>
+<div class="woocommerce-form-coupon-toggle">
+	
+	<div class="woocommerce-info">
+		Have a coupon? <a href="#" class="showcoupon">Click here to enter your code</a>	</div>
+</div>
+
+<form class="checkout_coupon woocommerce-form-coupon" method="post" style="display:none">
+
+	<p>If you have a coupon code, please apply it below.</p>
+
+	<p class="form-row form-row-first">
+		<input type="text" name="coupon_code" class="input-text" placeholder="Coupon code" id="coupon_code" value="" />
+	</p>
+
+	<p class="form-row form-row-last">
+		<button type="submit" class="button" name="apply_coupon" value="Apply coupon">Apply coupon</button>
+	</p>
+
+	<div class="clear"></div>
+</form>
+<div class="woocommerce-notices-wrapper"></div>
+<form name="checkout" method="post" class="checkout woocommerce-checkout" action="http://alphaxyph.me/checkout/" enctype="multipart/form-data">
+
+	
+		
+		<div class="col2-set" id="customer_details">
+			<div class="col-1">
+				<div class="woocommerce-billing-fields">
+	
+		<h3>Billing details</h3>
+
+	
+	
+	<div class="woocommerce-billing-fields__field-wrapper">
+		<p class="form-row form-row-first validate-required" id="billing_first_name_field" data-priority="10"><label for="billing_first_name" class="">First name&nbsp;<abbr class="required" title="required">*</abbr></label><span class="woocommerce-input-wrapper"><input type="text" class="input-text " name="billing_first_name" id="billing_first_name" placeholder=""  value="" autocomplete="given-name" /></span></p><p class="form-row form-row-last validate-required" id="billing_last_name_field" data-priority="20"><label for="billing_last_name" class="">Last name&nbsp;<abbr class="required" title="required">*</abbr></label><span class="woocommerce-input-wrapper"><input type="text" class="input-text " name="billing_last_name" id="billing_last_name" placeholder=""  value="" autocomplete="family-name" /></span></p><p class="form-row form-row-wide" id="billing_company_field" data-priority="30"><label for="billing_company" class="">Company name&nbsp;<span class="optional">(optional)</span></label><span class="woocommerce-input-wrapper"><input type="text" class="input-text " name="billing_company" id="billing_company" placeholder=""  value="" autocomplete="organization" /></span></p><p class="form-row form-row-wide address-field update_totals_on_change validate-required" id="billing_country_field" data-priority="40"><label for="billing_country" class="">Country / Region&nbsp;<abbr class="required" title="required">*</abbr></label><span class="woocommerce-input-wrapper"><strong>India</strong><input type="hidden" name="billing_country" id="billing_country" value="IN" autocomplete="country" class="country_to_state" readonly="readonly" /></span></p><p class="form-row form-row-wide address-field validate-required" id="billing_address_1_field" data-priority="50"><label for="billing_address_1" class="">Street address&nbsp;<abbr class="required" title="required">*</abbr></label><span class="woocommerce-input-wrapper"><input type="text" class="input-text " name="billing_address_1" id="billing_address_1" placeholder="House number and street name"  value="" autocomplete="address-line1" /></span></p><p class="form-row form-row-wide address-field" id="billing_address_2_field" data-priority="60"><label for="billing_address_2" class="screen-reader-text">Apartment, suite, unit, etc.&nbsp;<span class="optional">(optional)</span></label><span class="woocommerce-input-wrapper"><input type="text" class="input-text " name="billing_address_2" id="billing_address_2" placeholder="Apartment, suite, unit, etc. (optional)"  value="" autocomplete="address-line2" /></span></p><p class="form-row form-row-wide address-field validate-required" id="billing_city_field" data-priority="70"><label for="billing_city" class="">Town / City&nbsp;<abbr class="required" title="required">*</abbr></label><span class="woocommerce-input-wrapper"><input type="text" class="input-text " name="billing_city" id="billing_city" placeholder=""  value="" autocomplete="address-level2" /></span></p><p class="form-row form-row-wide address-field validate-required validate-state" id="billing_state_field" data-priority="80"><label for="billing_state" class="">State&nbsp;<abbr class="required" title="required">*</abbr></label><span class="woocommerce-input-wrapper"><select name="billing_state" id="billing_state" class="state_select " autocomplete="address-level1" data-placeholder="Select an option&hellip;"  data-input-classes="" data-label="State">
+						<option value="">Select an option&hellip;</option><option value="AP" >Andhra Pradesh</option><option value="AR" >Arunachal Pradesh</option><option value="AS" >Assam</option><option value="BR" >Bihar</option><option value="CT" >Chhattisgarh</option><option value="GA" >Goa</option><option value="GJ" >Gujarat</option><option value="HR" >Haryana</option><option value="HP" >Himachal Pradesh</option><option value="JK" >Jammu and Kashmir</option><option value="JH" >Jharkhand</option><option value="KA" >Karnataka</option><option value="KL" >Kerala</option><option value="LA" >Ladakh</option><option value="MP" >Madhya Pradesh</option><option value="MH" >Maharashtra</option><option value="MN" >Manipur</option><option value="ML" >Meghalaya</option><option value="MZ" >Mizoram</option><option value="NL" >Nagaland</option><option value="OR" >Odisha</option><option value="PB" >Punjab</option><option value="RJ" >Rajasthan</option><option value="SK" >Sikkim</option><option value="TN" >Tamil Nadu</option><option value="TS" >Telangana</option><option value="TR" >Tripura</option><option value="UK" >Uttarakhand</option><option value="UP" >Uttar Pradesh</option><option value="WB" >West Bengal</option><option value="AN" >Andaman and Nicobar Islands</option><option value="CH" >Chandigarh</option><option value="DN" >Dadra and Nagar Haveli</option><option value="DD" >Daman and Diu</option><option value="DL" >Delhi</option><option value="LD" >Lakshadeep</option><option value="PY" >Pondicherry (Puducherry)</option></select></span></p><p class="form-row form-row-wide address-field validate-required validate-postcode" id="billing_postcode_field" data-priority="90"><label for="billing_postcode" class="">PIN&nbsp;<abbr class="required" title="required">*</abbr></label><span class="woocommerce-input-wrapper"><input type="text" class="input-text " name="billing_postcode" id="billing_postcode" placeholder=""  value="" autocomplete="postal-code" /></span></p><p class="form-row form-row-wide validate-required validate-phone" id="billing_phone_field" data-priority="100"><label for="billing_phone" class="">Phone&nbsp;<abbr class="required" title="required">*</abbr></label><span class="woocommerce-input-wrapper"><input type="tel" class="input-text " name="billing_phone" id="billing_phone" placeholder=""  value="" autocomplete="tel" /></span></p><p class="form-row form-row-wide validate-required validate-email" id="billing_email_field" data-priority="110"><label for="billing_email" class="">Email address&nbsp;<abbr class="required" title="required">*</abbr></label><span class="woocommerce-input-wrapper"><input type="email" class="input-text " name="billing_email" id="billing_email" placeholder=""  value="" autocomplete="email username" /></span></p>	</div>
+
+	</div>
+
+	<div class="woocommerce-account-fields">
+		
+			<p class="form-row form-row-wide create-account">
+				<label class="woocommerce-form__label woocommerce-form__label-for-checkbox checkbox">
+					<input class="woocommerce-form__input woocommerce-form__input-checkbox input-checkbox" id="createaccount"  type="checkbox" name="createaccount" value="1" /> <span>Create an account?</span>
+				</label>
+			</p>
+
+		
+		
+		
+			</div>
+			</div>
+
+			<div class="col-2">
+				<div class="woocommerce-shipping-fields">
+	
+		<h3 id="ship-to-different-address">
+			<label class="woocommerce-form__label woocommerce-form__label-for-checkbox checkbox">
+				<input id="ship-to-different-address-checkbox" class="woocommerce-form__input woocommerce-form__input-checkbox input-checkbox"  type="checkbox" name="ship_to_different_address" value="1" /> <span>Ship to a different address?</span>
+			</label>
+		</h3>
+
+		<div class="shipping_address">
+
+			
+			<div class="woocommerce-shipping-fields__field-wrapper">
+				<p class="form-row form-row-first validate-required" id="shipping_first_name_field" data-priority="10"><label for="shipping_first_name" class="">First name&nbsp;<abbr class="required" title="required">*</abbr></label><span class="woocommerce-input-wrapper"><input type="text" class="input-text " name="shipping_first_name" id="shipping_first_name" placeholder=""  value="" autocomplete="given-name" /></span></p><p class="form-row form-row-last validate-required" id="shipping_last_name_field" data-priority="20"><label for="shipping_last_name" class="">Last name&nbsp;<abbr class="required" title="required">*</abbr></label><span class="woocommerce-input-wrapper"><input type="text" class="input-text " name="shipping_last_name" id="shipping_last_name" placeholder=""  value="" autocomplete="family-name" /></span></p><p class="form-row form-row-wide" id="shipping_company_field" data-priority="30"><label for="shipping_company" class="">Company name&nbsp;<span class="optional">(optional)</span></label><span class="woocommerce-input-wrapper"><input type="text" class="input-text " name="shipping_company" id="shipping_company" placeholder=""  value="" autocomplete="organization" /></span></p><p class="form-row form-row-wide address-field update_totals_on_change validate-required" id="shipping_country_field" data-priority="40"><label for="shipping_country" class="">Country / Region&nbsp;<abbr class="required" title="required">*</abbr></label><span class="woocommerce-input-wrapper"><strong>India</strong><input type="hidden" name="shipping_country" id="shipping_country" value="IN" autocomplete="country" class="country_to_state" readonly="readonly" /></span></p><p class="form-row form-row-wide address-field validate-required" id="shipping_address_1_field" data-priority="50"><label for="shipping_address_1" class="">Street address&nbsp;<abbr class="required" title="required">*</abbr></label><span class="woocommerce-input-wrapper"><input type="text" class="input-text " name="shipping_address_1" id="shipping_address_1" placeholder="House number and street name"  value="" autocomplete="address-line1" /></span></p><p class="form-row form-row-wide address-field" id="shipping_address_2_field" data-priority="60"><label for="shipping_address_2" class="screen-reader-text">Apartment, suite, unit, etc.&nbsp;<span class="optional">(optional)</span></label><span class="woocommerce-input-wrapper"><input type="text" class="input-text " name="shipping_address_2" id="shipping_address_2" placeholder="Apartment, suite, unit, etc. (optional)"  value="" autocomplete="address-line2" /></span></p><p class="form-row form-row-wide address-field validate-required" id="shipping_city_field" data-priority="70"><label for="shipping_city" class="">Town / City&nbsp;<abbr class="required" title="required">*</abbr></label><span class="woocommerce-input-wrapper"><input type="text" class="input-text " name="shipping_city" id="shipping_city" placeholder=""  value="" autocomplete="address-level2" /></span></p><p class="form-row form-row-wide address-field validate-required validate-state" id="shipping_state_field" data-priority="80"><label for="shipping_state" class="">State&nbsp;<abbr class="required" title="required">*</abbr></label><span class="woocommerce-input-wrapper"><select name="shipping_state" id="shipping_state" class="state_select " autocomplete="address-level1" data-placeholder="Select an option&hellip;"  data-input-classes="" data-label="State">
+						<option value="">Select an option&hellip;</option><option value="AP" >Andhra Pradesh</option><option value="AR" >Arunachal Pradesh</option><option value="AS" >Assam</option><option value="BR" >Bihar</option><option value="CT" >Chhattisgarh</option><option value="GA" >Goa</option><option value="GJ" >Gujarat</option><option value="HR" >Haryana</option><option value="HP" >Himachal Pradesh</option><option value="JK" >Jammu and Kashmir</option><option value="JH" >Jharkhand</option><option value="KA" >Karnataka</option><option value="KL" >Kerala</option><option value="LA" >Ladakh</option><option value="MP" >Madhya Pradesh</option><option value="MH" >Maharashtra</option><option value="MN" >Manipur</option><option value="ML" >Meghalaya</option><option value="MZ" >Mizoram</option><option value="NL" >Nagaland</option><option value="OR" >Odisha</option><option value="PB" >Punjab</option><option value="RJ" >Rajasthan</option><option value="SK" >Sikkim</option><option value="TN" >Tamil Nadu</option><option value="TS" >Telangana</option><option value="TR" >Tripura</option><option value="UK" >Uttarakhand</option><option value="UP" >Uttar Pradesh</option><option value="WB" >West Bengal</option><option value="AN" >Andaman and Nicobar Islands</option><option value="CH" >Chandigarh</option><option value="DN" >Dadra and Nagar Haveli</option><option value="DD" >Daman and Diu</option><option value="DL" >Delhi</option><option value="LD" >Lakshadeep</option><option value="PY" >Pondicherry (Puducherry)</option></select></span></p><p class="form-row form-row-wide address-field validate-required validate-postcode" id="shipping_postcode_field" data-priority="90"><label for="shipping_postcode" class="">PIN&nbsp;<abbr class="required" title="required">*</abbr></label><span class="woocommerce-input-wrapper"><input type="text" class="input-text " name="shipping_postcode" id="shipping_postcode" placeholder=""  value="" autocomplete="postal-code" /></span></p>			</div>
+
+			
+		</div>
+
+	</div>
+<div class="woocommerce-additional-fields">
+	
+	
+		
+		<div class="woocommerce-additional-fields__field-wrapper">
+							<p class="form-row notes" id="order_comments_field" data-priority=""><label for="order_comments" class="">Order notes&nbsp;<span class="optional">(optional)</span></label><span class="woocommerce-input-wrapper"><textarea name="order_comments" class="input-text " id="order_comments" placeholder="Notes about your order, e.g. special notes for delivery."  rows="2" cols="5"></textarea></span></p>					</div>
+
+	
+	</div>
+			</div>
+		</div>
+
+		
+		
+		
+	<h3 id="order_review_heading">Your order</h3>
+	
+	
+	<div id="order_review" class="woocommerce-checkout-review-order">
+		<table class="shop_table woocommerce-checkout-review-order-table">
+	<thead>
+		<tr>
+			<th class="product-name">Product</th>
+			<th class="product-total">Subtotal</th>
+		</tr>
+	</thead>
+	<tbody>
+						<tr class="cart_item">
+					<td class="product-name">
+						Oppo K3 - White, 6gb / 64gb&nbsp;						 <strong class="product-quantity">&times;&nbsp;1</strong>											</td>
+					<td class="product-total">
+						<span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#8377;</span>11,111.00</bdi></span>					</td>
+				</tr>
+					</tbody>
+	<tfoot>
+
+		<tr class="cart-subtotal">
+			<th>Subtotal</th>
+			<td><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#8377;</span>11,111.00</bdi></span></td>
+		</tr>
+
+		
+		
+			
+			<tr class="woocommerce-shipping-totals shipping">
+	<th>Shipping</th>
+	<td data-title="Shipping">
+		Enter your address to view shipping options.
+		
+			</td>
+</tr>
+
+			
+		
+		
+														
+		
+		<tr class="order-total">
+			<th>Total</th>
+			<td><strong><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#8377;</span>11,111.00</bdi></span></strong> </td>
+		</tr>
+
+		
+	</tfoot>
+</table>
+<div id="payment" class="woocommerce-checkout-payment">
+			<ul class="wc_payment_methods payment_methods methods">
+			<li class="wc_payment_method payment_method_cod">
+	<input id="payment_method_cod" type="radio" class="input-radio" name="payment_method" value="cod"  checked='checked' data-order_button_text="" />
+
+	<label for="payment_method_cod">
+		Cash on delivery 	</label>
+			<div class="payment_box payment_method_cod" >
+			<p>Pay with cash upon delivery.</p>
+		</div>
+	</li>
+		</ul>
+		<div class="form-row place-order">
+		<noscript>
+			Since your browser does not support JavaScript, or it is disabled, please ensure you click the <em>Update Totals</em> button before placing your order. You may be charged more than the amount stated above if you fail to do so.			<br/><button type="submit" class="button alt" name="woocommerce_checkout_update_totals" value="Update totals">Update totals</button>
+		</noscript>
+
+			<div class="woocommerce-terms-and-conditions-wrapper">
+		<div class="woocommerce-privacy-policy-text"><p>Your personal data will be used to process your order, support your experience throughout this website, and for other purposes described in our <a href="http://alphaxyph.me/?page_id=3" class="woocommerce-privacy-policy-link" target="_blank">privacy policy</a>.</p>
+</div>
+			</div>
+	
+		
+		<button type="submit" class="button alt" name="woocommerce_checkout_place_order" id="place_order" value="Place order" data-value="Place order">Place order</button>
+		
+		<input type="hidden" id="woocommerce-process-checkout-nonce" name="woocommerce-process-checkout-nonce" value="6245552ddb" /><input type="hidden" name="_wp_http_referer" value="/checkout/" />	</div>
+</div>
+	</div>
+
+	
+</form>
+
+</div>
+
+	
+</div>
+
+</article>
+
+				
+			</div><!-- #content -->
+
+			
+		</div><!-- #primary -->
+
+		
+
+<aside id="right-sidebar" class="sidebar-container widget-area sidebar-primary" itemscope="itemscope" itemtype="https://schema.org/WPSideBar" role="complementary" aria-label="Primary Sidebar">
+
+	
+	<div id="right-sidebar-inner" class="clr">
+
+		<div id="block-2" class="sidebar-box widget_block widget_search clr"><form role="search" method="get" action="http://alphaxyph.me/" class="wp-block-search__button-outside wp-block-search__text-button wp-block-search"><label for="wp-block-search__input-1" class="wp-block-search__label">Search</label><div class="wp-block-search__inside-wrapper"><input type="search" id="wp-block-search__input-1" class="wp-block-search__input" name="s" value="" placeholder=""  required /><button type="submit" class="wp-block-search__button ">Search</button></div></form></div><div id="block-3" class="sidebar-box widget_block clr"><div class="wp-block-group"><div class="wp-block-group__inner-container"><h2>Recent Posts</h2><ul class="wp-block-latest-posts__list wp-block-latest-posts"></ul></div></div></div><div id="block-4" class="sidebar-box widget_block clr"><div class="wp-block-group"><div class="wp-block-group__inner-container"><h2>Recent Comments</h2><div class="no-comments wp-block-latest-comments">No comments to show.</div></div></div></div>
+	</div><!-- #sidebar-inner -->
+
+	
+</aside><!-- #right-sidebar -->
+
+
+	</div><!-- #content-wrap -->
+
+	
+
+	</main><!-- #main -->
+
+	
+	
+	
+		
+<footer id="footer" class="site-footer" itemscope="itemscope" itemtype="https://schema.org/WPFooter" role="contentinfo">
+
+	
+	<div id="footer-inner" class="clr">
+
+		
+
+<div id="footer-widgets" class="oceanwp-row clr">
+
+	
+	<div class="footer-widgets-inner container">
+
+					<div class="footer-box span_1_of_4 col col-1">
+							</div><!-- .footer-one-box -->
+
+							<div class="footer-box span_1_of_4 col col-2">
+									</div><!-- .footer-one-box -->
+				
+							<div class="footer-box span_1_of_4 col col-3 ">
+									</div><!-- .footer-one-box -->
+				
+							<div class="footer-box span_1_of_4 col col-4">
+									</div><!-- .footer-box -->
+				
+			
+	</div><!-- .container -->
+
+	
+</div><!-- #footer-widgets -->
+
+
+
+<div id="footer-bottom" class="clr no-footer-nav">
+
+	
+	<div id="footer-bottom-inner" class="container clr">
+
+		
+		
+			<div id="copyright" class="clr" role="contentinfo">
+				Copyright - OceanWP Theme by Nick			</div><!-- #copyright -->
+
+			
+	</div><!-- #footer-bottom-inner -->
+
+	
+</div><!-- #footer-bottom -->
+
+
+	</div><!-- #footer-inner -->
+
+	
+</footer><!-- #footer -->
+
+	
+	
+</div><!-- #wrap -->
+
+
+</div><!-- #outer-wrap -->
+
+
+
+<a aria-label="Scroll to the top of the page" href="#" id="scroll-top" class="scroll-top-right"><i class=" fa fa-angle-up" aria-hidden="true" role="img"></i></a>
+
+
+
+
+
+<script type="text/html" id="tmpl-woo-variation-gallery-slider-template">
+	    <div class="wvg-gallery-image">
+        <div>
+            <# if( data.srcset ){ #>
+            <div class="wvg-single-gallery-image-container">
+                <img loading="lazy" class="{{data.class}}" width="{{data.src_w}}" height="{{data.src_h}}" src="{{data.src}}" alt="{{data.alt}}" title="{{data.title}}" data-caption="{{data.caption}}" data-src="{{data.full_src}}" data-large_image="{{data.full_src}}" data-large_image_width="{{data.full_src_w}}" data-large_image_height="{{data.full_src_h}}" srcset="{{data.srcset}}" sizes="{{data.sizes}}" {{data.extra_params}}/>
+            </div>
+            <# } #>
+
+            <# if( !data.srcset ){ #>
+            <div class="wvg-single-gallery-image-container">
+                <img loading="lazy" class="{{data.class}}" width="{{data.src_w}}" height="{{data.src_h}}" src="{{data.src}}" alt="{{data.alt}}" title="{{data.title}}" data-caption="{{data.caption}}" data-src="{{data.full_src}}" data-large_image="{{data.full_src}}" data-large_image_width="{{data.full_src_w}}" data-large_image_height="{{data.full_src_h}}" sizes="{{data.sizes}}" {{data.extra_params}}/>
+            </div>
+            <# } #>
+        </div>
+    </div>
+	</script>
+<script type="text/html" id="tmpl-woo-variation-gallery-thumbnail-template">
+    <div class="wvg-gallery-thumbnail-image">
+        <div>
+            <img class="{{data.gallery_thumbnail_class}}" width="{{data.gallery_thumbnail_src_w}}" height="{{data.gallery_thumbnail_src_h}}" src="{{data.gallery_thumbnail_src}}" alt="{{data.alt}}" title="{{data.title}}" />
+        </div>
+    </div>
+</script>
+<div id="owp-qv-wrap">
+	<div class="owp-qv-container">
+		<div class="owp-qv-content-wrap">
+			<div class="owp-qv-content-inner">
+				<a href="#" class="owp-qv-close" aria-label="Close quick preview">×</a>
+				<div id="owp-qv-content" class="woocommerce single-product"></div>
+			</div>
+		</div>
+	</div>
+	<div class="owp-qv-overlay"></div>
+</div>
+<div id="oceanwp-cart-sidebar-wrap"><div class="oceanwp-cart-sidebar"><a href="#" class="oceanwp-cart-close">×</a><p class="owp-cart-title">Cart</p><div class="divider"></div><div class="owp-mini-cart"></div></div><div class="oceanwp-cart-sidebar-overlay"></div></div>	<script type="text/javascript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	<script id='thickbox-js-extra'>
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"http:\/\/alphaxyph.me\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+</script>
+<script src='http://alphaxyph.me/wp-includes/js/thickbox/thickbox.js?ver=3.1-20121105' id='thickbox-js'></script>
+<script src='http://alphaxyph.me/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.5.7.1' id='jquery-blockui-js'></script>
+<script id='wc-add-to-cart-js-extra'>
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"http:\/\/alphaxyph.me\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+</script>
+<script src='http://alphaxyph.me/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=5.7.1' id='wc-add-to-cart-js'></script>
+<script src='http://alphaxyph.me/wp-content/plugins/woocommerce/assets/js/selectWoo/selectWoo.full.min.js?ver=1.0.9-wc.5.7.1' id='selectWoo-js'></script>
+<script src='http://alphaxyph.me/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.5.7.1' id='js-cookie-js'></script>
+<script id='woocommerce-js-extra'>
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+</script>
+<script src='http://alphaxyph.me/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=5.7.1' id='woocommerce-js'></script>
+<script id='wc-country-select-js-extra'>
+var wc_country_select_params = {"countries":"{\"IN\":{\"AP\":\"Andhra Pradesh\",\"AR\":\"Arunachal Pradesh\",\"AS\":\"Assam\",\"BR\":\"Bihar\",\"CT\":\"Chhattisgarh\",\"GA\":\"Goa\",\"GJ\":\"Gujarat\",\"HR\":\"Haryana\",\"HP\":\"Himachal Pradesh\",\"JK\":\"Jammu and Kashmir\",\"JH\":\"Jharkhand\",\"KA\":\"Karnataka\",\"KL\":\"Kerala\",\"LA\":\"Ladakh\",\"MP\":\"Madhya Pradesh\",\"MH\":\"Maharashtra\",\"MN\":\"Manipur\",\"ML\":\"Meghalaya\",\"MZ\":\"Mizoram\",\"NL\":\"Nagaland\",\"OR\":\"Odisha\",\"PB\":\"Punjab\",\"RJ\":\"Rajasthan\",\"SK\":\"Sikkim\",\"TN\":\"Tamil Nadu\",\"TS\":\"Telangana\",\"TR\":\"Tripura\",\"UK\":\"Uttarakhand\",\"UP\":\"Uttar Pradesh\",\"WB\":\"West Bengal\",\"AN\":\"Andaman and Nicobar Islands\",\"CH\":\"Chandigarh\",\"DN\":\"Dadra and Nagar Haveli\",\"DD\":\"Daman and Diu\",\"DL\":\"Delhi\",\"LD\":\"Lakshadeep\",\"PY\":\"Pondicherry (Puducherry)\"}}","i18n_select_state_text":"Select an option\u2026","i18n_no_matches":"No matches found","i18n_ajax_error":"Loading failed","i18n_input_too_short_1":"Please enter 1 or more characters","i18n_input_too_short_n":"Please enter %qty% or more characters","i18n_input_too_long_1":"Please delete 1 character","i18n_input_too_long_n":"Please delete %qty% characters","i18n_selection_too_long_1":"You can only select 1 item","i18n_selection_too_long_n":"You can only select %qty% items","i18n_load_more":"Loading more results\u2026","i18n_searching":"Searching\u2026"};
+</script>
+<script src='http://alphaxyph.me/wp-content/plugins/woocommerce/assets/js/frontend/country-select.min.js?ver=5.7.1' id='wc-country-select-js'></script>
+<script id='wc-address-i18n-js-extra'>
+var wc_address_i18n_params = {"locale":"{\"IN\":{\"postcode\":{\"label\":\"PIN\"},\"state\":{\"label\":\"State\"}},\"default\":{\"first_name\":{\"label\":\"First name\",\"required\":true,\"class\":[\"form-row-first\"],\"autocomplete\":\"given-name\",\"priority\":10},\"last_name\":{\"label\":\"Last name\",\"required\":true,\"class\":[\"form-row-last\"],\"autocomplete\":\"family-name\",\"priority\":20},\"company\":{\"label\":\"Company name\",\"class\":[\"form-row-wide\"],\"autocomplete\":\"organization\",\"priority\":30,\"required\":false},\"country\":{\"type\":\"country\",\"label\":\"Country \\\/ Region\",\"required\":true,\"class\":[\"form-row-wide\",\"address-field\",\"update_totals_on_change\"],\"autocomplete\":\"country\",\"priority\":40},\"address_1\":{\"label\":\"Street address\",\"placeholder\":\"House number and street name\",\"required\":true,\"class\":[\"form-row-wide\",\"address-field\"],\"autocomplete\":\"address-line1\",\"priority\":50},\"address_2\":{\"label\":\"Apartment, suite, unit, etc.\",\"label_class\":[\"screen-reader-text\"],\"placeholder\":\"Apartment, suite, unit, etc. (optional)\",\"class\":[\"form-row-wide\",\"address-field\"],\"autocomplete\":\"address-line2\",\"priority\":60,\"required\":false},\"city\":{\"label\":\"Town \\\/ City\",\"required\":true,\"class\":[\"form-row-wide\",\"address-field\"],\"autocomplete\":\"address-level2\",\"priority\":70},\"state\":{\"type\":\"state\",\"label\":\"State \\\/ County\",\"required\":true,\"class\":[\"form-row-wide\",\"address-field\"],\"validate\":[\"state\"],\"autocomplete\":\"address-level1\",\"priority\":80},\"postcode\":{\"label\":\"Postcode \\\/ ZIP\",\"required\":true,\"class\":[\"form-row-wide\",\"address-field\"],\"validate\":[\"postcode\"],\"autocomplete\":\"postal-code\",\"priority\":90}}}","locale_fields":"{\"address_1\":\"#billing_address_1_field, #shipping_address_1_field\",\"address_2\":\"#billing_address_2_field, #shipping_address_2_field\",\"state\":\"#billing_state_field, #shipping_state_field, #calc_shipping_state_field\",\"postcode\":\"#billing_postcode_field, #shipping_postcode_field, #calc_shipping_postcode_field\",\"city\":\"#billing_city_field, #shipping_city_field, #calc_shipping_city_field\"}","i18n_required_text":"required","i18n_optional_text":"optional"};
+</script>
+<script src='http://alphaxyph.me/wp-content/plugins/woocommerce/assets/js/frontend/address-i18n.min.js?ver=5.7.1' id='wc-address-i18n-js'></script>
+<script id='wc-checkout-js-extra'>
+var wc_checkout_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","update_order_review_nonce":"bcb19e8977","apply_coupon_nonce":"d91b0d3f39","remove_coupon_nonce":"247a6428ef","option_guest_checkout":"yes","checkout_url":"\/?wc-ajax=checkout","is_checkout":"1","debug_mode":"","i18n_checkout_error":"Error processing checkout. Please try again."};
+</script>
+<script src='http://alphaxyph.me/wp-content/plugins/woocommerce/assets/js/frontend/checkout.min.js?ver=5.7.1' id='wc-checkout-js'></script>
+<script id='wc-cart-fragments-js-extra'>
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_4ba4c8133a82057a07d62b008649e08b","fragment_name":"wc_fragments_4ba4c8133a82057a07d62b008649e08b","request_timeout":"5000"};
+</script>
+<script src='http://alphaxyph.me/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=5.7.1' id='wc-cart-fragments-js'></script>
+<script id='tinvwl-js-extra'>
+var tinvwl_add_to_wishlist = {"text_create":"Create New","text_already_in":"{product_name} already in Wishlist","simple_flow":"","hide_zero_counter":"","i18n_make_a_selection_text":"Please select some product options before adding this product to your wishlist.","tinvwl_break_submit":"No items or actions are selected.","tinvwl_clipboard":"Copied!","allow_parent_variable":"","block_ajax_wishlists_data":"","update_wishlists_data":"","hash_key":"ti_wishlist_data_4ba4c8133a82057a07d62b008649e08b","nonce":"7dbf1ff4c2","rest_root":"http:\/\/alphaxyph.me\/wp-json\/","plugin_url":"http:\/\/alphaxyph.me\/wp-content\/plugins\/ti-woocommerce-wishlist\/"};
+</script>
+<script src='http://alphaxyph.me/wp-content/plugins/ti-woocommerce-wishlist/assets/js/public.min.js?ver=1.28.4' id='tinvwl-js'></script>
+<script id='eh_checkout_script-js-extra'>
+var eh_stripe_checkout_params = {"key":"","wp_ajaxurl":"http:\/\/alphaxyph.me\/wp-admin\/admin-ajax.php","wc_ajaxurl":"\/?wc-ajax=%%change_end%%"};
+var eh_stripe_checkout_params = {"key":"","wp_ajaxurl":"http:\/\/alphaxyph.me\/wp-admin\/admin-ajax.php","wc_ajaxurl":"\/?wc-ajax=%%change_end%%"};
+</script>
+<script src='http://alphaxyph.me/wp-content/plugins/payment-gateway-stripe-and-woocommerce-integration/assets/js/eh-checkout.js?ver=3.6.5' id='eh_checkout_script-js'></script>
+<script src='http://alphaxyph.me/wp-includes/js/imagesloaded.min.js?ver=4.1.4' id='imagesloaded-js'></script>
+<script src='http://alphaxyph.me/wp-content/themes/oceanwp/assets/js/vendors/isotope.pkgd.min.js?ver=3.0.6' id='ow-isotop-js'></script>
+<script src='http://alphaxyph.me/wp-content/themes/oceanwp/assets/js/vendors/flickity.pkgd.min.js?ver=3.0.7' id='ow-flickity-js'></script>
+<script src='http://alphaxyph.me/wp-content/themes/oceanwp/assets/js/vendors/sidr.js?ver=3.0.7' id='ow-sidr-js'></script>
+<script src='http://alphaxyph.me/wp-content/themes/oceanwp/assets/js/vendors/magnific-popup.min.js?ver=3.0.7' id='ow-magnific-popup-js'></script>
+<script id='oceanwp-main-js-extra'>
+var oceanwpLocalize = {"nonce":"7a152a5737","isRTL":"","menuSearchStyle":"drop_down","mobileMenuSearchStyle":"disabled","sidrSource":null,"sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","wooCartStyle":"custom_link","ajax_url":"http:\/\/alphaxyph.me\/wp-admin\/admin-ajax.php","cart_url":"http:\/\/alphaxyph.me\/cart\/","cart_redirect_after_add":"no","view_cart":"View cart","floating_bar":"on","grouped_text":"View products","multistep_checkout_error":"Some required fields are empty. Please fill the required fields to go to the next step."};
+</script>
+<script src='http://alphaxyph.me/wp-content/themes/oceanwp/assets/js/theme.vanilla.min.js?ver=3.0.7' id='oceanwp-main-js'></script>
+<script id='oceanwp-woocommerce-custom-features-js-extra'>
+var oceanwpLocalize = {"nonce":"7a152a5737","isRTL":"","menuSearchStyle":"drop_down","mobileMenuSearchStyle":"disabled","sidrSource":null,"sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","wooCartStyle":"custom_link","ajax_url":"http:\/\/alphaxyph.me\/wp-admin\/admin-ajax.php","cart_url":"http:\/\/alphaxyph.me\/cart\/","cart_redirect_after_add":"no","view_cart":"View cart","floating_bar":"on","grouped_text":"View products","multistep_checkout_error":"Some required fields are empty. Please fill the required fields to go to the next step."};
+</script>
+<script src='http://alphaxyph.me/wp-content/themes/oceanwp/assets/js/wp-plugins/woocommerce/woo-custom-features.min.js?ver=3.0.7' id='oceanwp-woocommerce-custom-features-js'></script>
+<script src='http://alphaxyph.me/wp-content/plugins/elementskit-lite/libs/framework/assets/js/frontend-script.js?ver=2.3.7' id='elementskit-framework-js-frontend-js'></script>
+<script id='elementskit-framework-js-frontend-js-after'>
+		var elementskit = {
+            resturl: 'http://alphaxyph.me/wp-json/elementskit/v1/',
+        }
+
+		
+</script>
+<script src='http://alphaxyph.me/wp-content/plugins/elementskit-lite/widgets/init/assets/js/widget-scripts.js?ver=2.3.7' id='ekit-widget-scripts-js'></script>
+<script id='eh_stripe_checkout-js-extra'>
+var eh_stripe_val = {"key":"","show_zip_code":"1","i18n_terms":"Please accept the terms and conditions first","i18n_required_fields":"Please fill in required checkout fields first","sepa_elements_options":{"supportedCountries":["SEPA"],"placeholderCountry":"IN","style":{"base":{"fontSize":"15px"}}},"elements_options":[],"stripe_enable_inline_form":"1","is_checkout":"yes","enabled_inline_form":"no","inline_postalcode":"1"};
+</script>
+<script src='http://alphaxyph.me/wp-content/plugins/payment-gateway-stripe-and-woocommerce-integration/assets/js/eh_stripe_checkout.js?ver=3.6.5' id='eh_stripe_checkout-js'></script>
+<script src='http://alphaxyph.me/wp-content/plugins/payment-gateway-stripe-and-woocommerce-integration/assets/js/eh-alipay.js?ver=3.6.5' id='eh_alipay-js'></script>
+<script src='http://alphaxyph.me/wp-content/plugins/payment-gateway-stripe-and-woocommerce-integration/assets/js/eh-sepa.js?ver=3.6.5' id='eh_sepa_pay-js'></script>
+<script src='http://alphaxyph.me/wp-includes/js/underscore.min.js?ver=1.13.1' id='underscore-js'></script>
+<script id='wp-util-js-extra'>
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+</script>
+<script src='http://alphaxyph.me/wp-includes/js/wp-util.min.js?ver=5.8.1' id='wp-util-js'></script>
+<script id='wc-add-to-cart-variation-js-extra'>
+var wc_add_to_cart_variation_params = {"wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_no_matching_variations_text":"Sorry, no products matched your selection. Please choose a different combination.","i18n_make_a_selection_text":"Please select some product options before adding this product to your cart.","i18n_unavailable_text":"Sorry, this product is unavailable. Please choose a different combination."};
+</script>
+<script src='http://alphaxyph.me/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.min.js?ver=5.7.1' id='wc-add-to-cart-variation-js'></script>
+<script id='woo-variation-swatches-js-extra'>
+var woo_variation_swatches_options = {"is_product_page":"","show_variation_label":"1","variation_label_separator":":","wvs_nonce":"dc2e73dab1"};
+</script>
+<script src='http://alphaxyph.me/wp-content/plugins/woo-variation-swatches/assets/js/frontend.min.js?ver=1.1.19' id='woo-variation-swatches-js'></script>
+<script defer src='http://alphaxyph.me/wp-content/plugins/woo-variation-gallery/assets/js/slick.min.js?ver=1.8.1' id='woo-variation-gallery-slider-js'></script>
+<script id='woo-variation-gallery-js-extra'>
+var woo_variation_gallery_options = {"gallery_reset_on_variation_change":"","enable_gallery_zoom":"1","enable_gallery_lightbox":"1","enable_gallery_preload":"1","preloader_disable":"","enable_thumbnail_slide":"1","gallery_thumbnails_columns":"4","is_vertical":"","thumbnail_position":"bottom","thumbnail_position_class_prefix":"woo-variation-gallery-thumbnail-position-","is_mobile":"","gallery_default_device_width":"40","gallery_medium_device_width":"0","gallery_small_device_width":"720","gallery_extra_small_device_width":"320"};
+</script>
+<script defer src='http://alphaxyph.me/wp-content/plugins/woo-variation-gallery/assets/js/frontend.min.js?ver=1.2.7' id='woo-variation-gallery-js'></script>
+<script src='http://alphaxyph.me/wp-content/themes/oceanwp/assets/js/wp-plugins/woocommerce/woo-quick-view.min.js?ver=3.0.7' id='oceanwp-woo-quick-view-js'></script>
+<script src='http://alphaxyph.me/wp-content/plugins/woocommerce/assets/js/flexslider/jquery.flexslider.min.js?ver=2.7.2-wc.5.7.1' id='flexslider-js'></script>
+<script src='http://alphaxyph.me/wp-content/themes/oceanwp/assets/js/wp-plugins/woocommerce/woo-mini-cart.min.js?ver=3.0.7' id='oceanwp-woo-mini-cart-js'></script>
+<script src='http://alphaxyph.me/wp-content/plugins/ocean-product-sharing/assets/js/social.js?ver=2.0.0' id='ops-product-share-script-js'></script>
+<script src='http://alphaxyph.me/wp-content/plugins/ocean-social-sharing/assets/js/social.js?ver=2.0.0' id='oss-social-share-script-js'></script>
+<script src='http://alphaxyph.me/wp-includes/js/wp-embed.min.js?ver=5.8.1' id='wp-embed-js'></script>
+<!--[if lt IE 9]>
+<script src='http://alphaxyph.me/wp-content/themes/oceanwp/assets/js/third/html5.min.js?ver=3.0.7' id='html5shiv-js'></script>
+<![endif]-->
+</body>
+</html>
