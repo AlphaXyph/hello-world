@@ -1,0 +1,768 @@
+<body class="page-template-default page page-id-87 wp-embed-responsive theme-oceanwp woocommerce-js tinvwl-theme-style woo-variation-gallery woo-variation-gallery-theme-oceanwp woo-variation-gallery-theme-child-oceanwp woo-variation-swatches wvs-theme-oceanwp wvs-theme-child-oceanwp wvs-style-squared wvs-attr-behavior-blur wvs-tooltip wvs-css wvs-show-label oceanwp-theme dropdown-mobile default-breakpoint content-full-screen has-topbar page-header-disabled has-breadcrumbs has-grid-list account-original-style elementor-default elementor-kit-6 elementor-page elementor-page-87 e--ua-blink e--ua-chrome e--ua-webkit" itemscope="itemscope" itemtype="https://schema.org/WebPage" data-elementor-device-mode="mobile" data-new-gr-c-s-check-loaded="14.1031.0" data-gr-ext-installed="" cz-shortcut-listen="true">
+
+	
+	
+	<div id="outer-wrap" class="site clr">
+
+		<a class="skip-link screen-reader-text" href="#main">Skip to content</a>
+
+		
+		<div id="wrap" class="clr">
+
+			
+
+<div id="top-bar-wrap" class="clr">
+
+	<div id="top-bar" class="clr container has-no-content">
+
+		
+		<div id="top-bar-inner" class="clr">
+
+			
+
+		</div><!-- #top-bar-inner -->
+
+		
+	</div><!-- #top-bar -->
+
+</div><!-- #top-bar-wrap -->
+
+
+			
+<header id="site-header" class="minimal-header clr" data-height="74" itemscope="itemscope" itemtype="https://schema.org/WPHeader" role="banner" style="position: relative; top: 0px;">
+
+	
+					
+			<div id="site-header-inner" class="clr container">
+
+				
+				
+
+<div id="site-logo" class="clr" itemscope="" itemtype="https://schema.org/Brand">
+
+	
+	<div id="site-logo-inner" class="clr">
+
+						<a href="http://alphaxyph.me/" rel="home" class="site-title site-logo-text">Online Mobile shop</a>
+				
+	</div><!-- #site-logo-inner -->
+
+	
+	
+</div><!-- #site-logo -->
+
+			<div id="site-navigation-wrap" class="clr">
+			
+			
+			
+			<nav id="site-navigation" class="navigation main-navigation clr" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" role="navigation">
+
+				<ul id="menu-main-menu" class="main-menu dropdown-menu sf-menu"><li id="menu-item-96" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-96"><a href="http://alphaxyph.me/" class="menu-link"><span class="text-wrap">Home</span></a></li><li id="menu-item-101" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-101"><a href="http://alphaxyph.me/shop/" class="menu-link"><span class="text-wrap">Shop</span></a></li><li id="menu-item-99" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-87 current_page_item menu-item-99"><a href="http://alphaxyph.me/contact-us/" class="menu-link"><span class="text-wrap">Contact Us</span></a></li><li id="menu-item-97" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-97"><a href="http://alphaxyph.me/cart/" class="menu-link"><span class="text-wrap">Cart</span></a></li><li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-100"><a href="http://alphaxyph.me/my-account/" class="menu-link"><span class="text-wrap">My account<i class="nav-arrow fa fa-angle-down" aria-hidden="true" role="img"></i></span></a>
+<ul class="sub-menu" style="opacity: 0; display: none;">
+	<li id="menu-item-103" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-103"><a href="http://alphaxyph.me/track-order/" class="menu-link"><span class="text-wrap">Track Order</span></a></li>	<li id="menu-item-98" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-98"><a href="http://alphaxyph.me/checkout/" class="menu-link"><span class="text-wrap">Checkout</span></a></li>	<li id="menu-item-102" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-102"><a href="http://alphaxyph.me/wishlist/" class="menu-link"><span class="text-wrap">Wishlist</span></a></li></ul>
+</li><li id="menu-item-108" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108"><a href="http://alphaxyph.me/my-account/" class="menu-link"><span class="text-wrap">Login/Register</span></a></li>
+			<li class="woo-menu-icon wcmenucart-toggle-drop_down toggle-cart-widget">
+				
+			
+			<a href="http://alphaxyph.me/cart/" class="wcmenucart">
+				<span class="wcmenucart-count"><i class=" icon-handbag" aria-hidden="true" role="img"></i><span class="wcmenucart-details count">0</span></span>
+			</a>
+
+			
+
+												<div class="current-shop-items-dropdown owp-mini-cart clr">
+						<div class="current-shop-items-inner clr">
+							<div class="widget woocommerce widget_shopping_cart"><div class="widget_shopping_cart_content">
+
+	<p class="woocommerce-mini-cart__empty-message">No products in the cart.</p>
+
+
+</div></div>						</div>
+					</div>
+							</li>
+
+			<li class="search-toggle-li"><a href="javascript:void(0)" class="site-search-toggle search-dropdown-toggle" aria-label="Search website"><i class=" icon-magnifier" aria-hidden="true" role="img"></i></a></li></ul>
+<div id="searchform-dropdown" class="header-searchform-wrap clr">
+	
+<form role="search" method="get" class="searchform" action="http://alphaxyph.me/">
+	<label for="ocean-search-form-1">
+		<span class="screen-reader-text">Search this website</span>
+		<input type="search" id="ocean-search-form-1" class="field" autocomplete="off" placeholder="Search" name="s">
+			</label>
+	</form>
+</div><!-- #searchform-dropdown -->
+
+			</nav><!-- #site-navigation -->
+
+			
+			
+					</div><!-- #site-navigation-wrap -->
+			
+		
+	
+				
+	
+	<div class="oceanwp-mobile-menu-icon clr mobile-right">
+
+		
+		
+		
+			
+			<a href="http://alphaxyph.me/cart/" class="wcmenucart">
+				<span class="wcmenucart-count"><i class=" icon-handbag" aria-hidden="true" role="img"></i><span class="wcmenucart-details count">0</span></span>
+			</a>
+
+			
+
+			
+		<a href="javascript:void(0)" class="mobile-menu" aria-label="Mobile Menu">
+							<i class="fa fa-bars" aria-hidden="true"></i>
+								<span class="oceanwp-text">Menu</span>
+				<span class="oceanwp-close-text">Close</span>
+						</a>
+
+		
+		
+		
+	</div><!-- #oceanwp-mobile-menu-navbar -->
+
+	
+
+			</div><!-- #site-header-inner -->
+
+			
+<div id="mobile-dropdown" class="clr">
+
+	<nav class="clr" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement">
+
+		<ul id="menu-main-menu-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-96"><a href="http://alphaxyph.me/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-101"><a href="http://alphaxyph.me/shop/">Shop</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-87 current_page_item menu-item-99"><a href="http://alphaxyph.me/contact-us/" aria-current="page">Contact Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-97"><a href="http://alphaxyph.me/cart/">Cart</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-100"><a href="http://alphaxyph.me/my-account/">My account<span class="dropdown-toggle" tabindex="0"></span></a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-103"><a href="http://alphaxyph.me/track-order/">Track Order</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-98"><a href="http://alphaxyph.me/checkout/">Checkout</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-102"><a href="http://alphaxyph.me/wishlist/">Wishlist</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108"><a href="http://alphaxyph.me/my-account/">Login/Register</a></li>
+
+			<li class="woo-menu-icon wcmenucart-toggle-drop_down toggle-cart-widget">
+				
+			
+			<a href="http://alphaxyph.me/cart/" class="wcmenucart">
+				<span class="wcmenucart-count"><i class=" icon-handbag" aria-hidden="true" role="img"></i><span class="wcmenucart-details count">0</span></span>
+			</a>
+
+			
+
+												<div class="current-shop-items-dropdown owp-mini-cart clr">
+						<div class="current-shop-items-inner clr">
+							<div class="widget woocommerce widget_shopping_cart"><div class="widget_shopping_cart_content">
+
+	<p class="woocommerce-mini-cart__empty-message">No products in the cart.</p>
+
+
+</div></div>						</div>
+					</div>
+							</li>
+
+			<li class="search-toggle-li"><a href="javascript:void(0)" class="site-search-toggle search-dropdown-toggle" aria-label="Search website"><i class=" icon-magnifier" aria-hidden="true" role="img"></i></a></li></ul>
+<div id="mobile-menu-search" class="clr">
+	<form aria-label="Search this website" method="get" action="http://alphaxyph.me/" class="mobile-searchform" role="search">
+		<input aria-label="Insert search query" value="" class="field" id="ocean-mobile-search-2" type="search" name="s" autocomplete="off" placeholder="Search">
+		<button aria-label="Submit search" type="submit" class="searchform-submit">
+			<i class=" icon-magnifier" aria-hidden="true" role="img"></i>		</button>
+					</form>
+</div><!-- .mobile-menu-search -->
+
+	</nav>
+
+</div>
+
+			
+			
+		
+		
+</header><!-- #site-header -->
+
+
+			
+			<main id="main" class="site-main clr" role="main" style="margin-top: 0px;">
+
+				
+	
+	<div id="content-wrap" class="container clr">
+
+		
+		<div id="primary" class="content-area clr">
+
+			
+			<div id="content" class="site-content clr">
+
+				
+				
+<article class="single-page-article clr">
+
+	
+<div class="entry clr" itemprop="text">
+
+	
+			<div data-elementor-type="wp-page" data-elementor-id="87" class="elementor elementor-87" data-elementor-settings="[]">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-4b006d28 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4b006d28" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-37c8c706" data-id="37c8c706" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-b13e445 elementor-widget elementor-widget-menu-anchor" data-id="b13e445" data-element_type="widget" data-widget_type="menu-anchor.default">
+				<div class="elementor-widget-container">
+					<div id="home" class="elementor-menu-anchor"></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-6a415735 elementor-widget elementor-widget-heading" data-id="6a415735" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-large">Contact Us</h1>		</div>
+				</div>
+				<div class="elementor-element elementor-element-51548270 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="51548270" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-299bd82f elementor-widget elementor-widget-heading" data-id="299bd82f" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-large">24/7 Service Available</h3>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-3e6505cc elementor-section-full_width elementor-section-height-min-height elementor-section-items-stretch elementor-section-content-middle elementor-section-height-default" data-id="3e6505cc" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-38e109cb" data-id="38e109cb" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;none&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-42408660 elementor-widget elementor-widget-heading" data-id="42408660" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-large">Contact</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-584cf4f elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="584cf4f" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-488335c2 elementor-widget elementor-widget-heading" data-id="488335c2" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-large">Lorem ipsum dolor sit amet<br>cons etur adipiscing elit</p>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-5aad8807" data-id="5aad8807" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-4204f636 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="4204f636" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="far fa-envelope"></i>						</span>
+										<span class="elementor-icon-list-text">Bharat.patel@avc.ac.in</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-phone"></i>						</span>
+										<span class="elementor-icon-list-text">(442) 7621 3445</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-3c56143d elementor-section-full_width elementor-section-content-middle elementor-section-height-default elementor-section-height-default" data-id="3c56143d" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-60916b7" data-id="60916b7" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2038bab2 elementor-widget elementor-widget-google_maps" data-id="2038bab2" data-element_type="widget" data-widget_type="google_maps.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-custom-embed">
+			<iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=Vartak%20college%20vasai&amp;t=m&amp;z=14&amp;output=embed&amp;iwloc=near" title="Vartak college vasai" aria-label="Vartak college vasai"></iframe>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-3179f382" data-id="3179f382" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-32ccad6f elementor-widget elementor-widget-heading" data-id="32ccad6f" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-large">India</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-4e723492 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="4e723492" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-466e4d0f elementor-widget elementor-widget-heading" data-id="466e4d0f" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-large">Vartak College, Vasai (E), 
+Maharashtra</p>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-57598e5 elementor-section-full_width elementor-section-height-min-height elementor-section-items-stretch elementor-section-content-middle elementor-section-height-default" data-id="57598e5" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-8edc902" data-id="8edc902" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-366199ef elementor-widget elementor-widget-heading" data-id="366199ef" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-large">Social</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-79327270 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="79327270" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-754182bb elementor-widget elementor-widget-heading" data-id="754182bb" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-large">Follow us and stay updated<br>with all the news and offers</p>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-20a09415" data-id="20a09415" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-771fcb3d elementor-section-height-default elementor-section-boxed elementor-section-height-default" data-id="771fcb3d" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-3aae81fe elementor-sm-33" data-id="3aae81fe" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-4416c74c elementor-view-default elementor-widget elementor-widget-icon" data-id="4416c74c" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+							<i class="fa fa-facebook" aria-hidden="true"></i>
+						</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-44ceb27a elementor-widget elementor-widget-heading" data-id="44ceb27a" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h5 class="elementor-heading-title elementor-size-large">Facebook</h5>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-d2bddd1 elementor-sm-33" data-id="d2bddd1" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-54075def elementor-view-default elementor-widget elementor-widget-icon" data-id="54075def" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+							<i class="fa fa-twitter" aria-hidden="true"></i>
+						</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-4969470f elementor-widget elementor-widget-heading" data-id="4969470f" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h5 class="elementor-heading-title elementor-size-large">Twitter</h5>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-3956e957 elementor-sm-33" data-id="3956e957" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-fe3f342 elementor-view-default elementor-widget elementor-widget-icon" data-id="fe3f342" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="fab fa-linkedin-in"></i>			</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-5a4fecdd elementor-widget elementor-widget-heading" data-id="5a4fecdd" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h5 class="elementor-heading-title elementor-size-large">LinkedIn</h5>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-7c6f958b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7c6f958b" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-70702e63" data-id="70702e63" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2b626acb elementor-view-default elementor-widget elementor-widget-icon" data-id="2b626acb" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<a class="elementor-icon" href="#home">
+							<i class="fa fa-angle-double-up" aria-hidden="true"></i>
+						</a>
+		</div>
+				</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-397b17ff elementor-section-height-default elementor-section-boxed elementor-section-height-default" data-id="397b17ff" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-707ccf8d" data-id="707ccf8d" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-47931967 elementor-widget elementor-widget-heading" data-id="47931967" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-large">Jobs</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-3f597ade elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="3f597ade" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-5f8cdf66 elementor-widget elementor-widget-heading" data-id="5f8cdf66" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h5 class="elementor-heading-title elementor-size-large">jobs@yourdomain.com<br>(43) 677 889 9988</h5>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-1f5fc239" data-id="1f5fc239" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-7502af61 elementor-widget elementor-widget-heading" data-id="7502af61" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-large">Press</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-52b76095 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="52b76095" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-7e6ab28a elementor-widget elementor-widget-heading" data-id="7e6ab28a" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h5 class="elementor-heading-title elementor-size-large">press@yourdomain.com<br>(43) 677 889 5543</h5>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-3f210aab" data-id="3f210aab" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-654a7e5a elementor-widget elementor-widget-heading" data-id="654a7e5a" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-large">Finance</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-4344e0d4 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="4344e0d4" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-42958d67 elementor-widget elementor-widget-heading" data-id="42958d67" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h5 class="elementor-heading-title elementor-size-large">finance@yourdomain.com<br>(43) 677 889 5663</h5>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+					</div>
+		
+	
+</div>
+
+</article>
+
+				
+			</div><!-- #content -->
+
+			
+		</div><!-- #primary -->
+
+		
+	</div><!-- #content-wrap -->
+
+	
+
+	</main><!-- #main -->
+
+	
+	
+	
+		
+<footer id="footer" class="site-footer" itemscope="itemscope" itemtype="https://schema.org/WPFooter" role="contentinfo">
+
+	
+	<div id="footer-inner" class="clr">
+
+		
+
+<div id="footer-widgets" class="oceanwp-row clr">
+
+	
+	<div class="footer-widgets-inner container">
+
+					<div class="footer-box span_1_of_4 col col-1">
+							</div><!-- .footer-one-box -->
+
+							<div class="footer-box span_1_of_4 col col-2">
+									</div><!-- .footer-one-box -->
+				
+							<div class="footer-box span_1_of_4 col col-3 ">
+									</div><!-- .footer-one-box -->
+				
+							<div class="footer-box span_1_of_4 col col-4">
+									</div><!-- .footer-box -->
+				
+			
+	</div><!-- .container -->
+
+	
+</div><!-- #footer-widgets -->
+
+
+
+<div id="footer-bottom" class="clr no-footer-nav">
+
+	
+	<div id="footer-bottom-inner" class="container clr">
+
+		
+		
+			<div id="copyright" class="clr" role="contentinfo">
+				Copyright - OceanWP Theme by Nick			</div><!-- #copyright -->
+
+			
+	</div><!-- #footer-bottom-inner -->
+
+	
+</div><!-- #footer-bottom -->
+
+
+	</div><!-- #footer-inner -->
+
+	
+</footer><!-- #footer -->
+
+	
+	
+</div><!-- #wrap -->
+
+
+</div><!-- #outer-wrap -->
+
+
+
+<a aria-label="Scroll to the top of the page" href="#" id="scroll-top" class="scroll-top-right"><i class=" fa fa-angle-up" aria-hidden="true" role="img"></i></a>
+
+
+
+
+
+<script type="text/html" id="tmpl-woo-variation-gallery-slider-template">
+	    <div class="wvg-gallery-image">
+        <div>
+            <# if( data.srcset ){ #>
+            <div class="wvg-single-gallery-image-container">
+                <img loading="lazy" class="{{data.class}}" width="{{data.src_w}}" height="{{data.src_h}}" src="{{data.src}}" alt="{{data.alt}}" title="{{data.title}}" data-caption="{{data.caption}}" data-src="{{data.full_src}}" data-large_image="{{data.full_src}}" data-large_image_width="{{data.full_src_w}}" data-large_image_height="{{data.full_src_h}}" srcset="{{data.srcset}}" sizes="{{data.sizes}}" {{data.extra_params}}/>
+            </div>
+            <# } #>
+
+            <# if( !data.srcset ){ #>
+            <div class="wvg-single-gallery-image-container">
+                <img loading="lazy" class="{{data.class}}" width="{{data.src_w}}" height="{{data.src_h}}" src="{{data.src}}" alt="{{data.alt}}" title="{{data.title}}" data-caption="{{data.caption}}" data-src="{{data.full_src}}" data-large_image="{{data.full_src}}" data-large_image_width="{{data.full_src_w}}" data-large_image_height="{{data.full_src_h}}" sizes="{{data.sizes}}" {{data.extra_params}}/>
+            </div>
+            <# } #>
+        </div>
+    </div>
+	</script>
+<script type="text/html" id="tmpl-woo-variation-gallery-thumbnail-template">
+    <div class="wvg-gallery-thumbnail-image">
+        <div>
+            <img class="{{data.gallery_thumbnail_class}}" width="{{data.gallery_thumbnail_src_w}}" height="{{data.gallery_thumbnail_src_h}}" src="{{data.gallery_thumbnail_src}}" alt="{{data.alt}}" title="{{data.title}}" />
+        </div>
+    </div>
+</script>
+<div id="owp-qv-wrap">
+	<div class="owp-qv-container">
+		<div class="owp-qv-content-wrap">
+			<div class="owp-qv-content-inner">
+				<a href="#" class="owp-qv-close" aria-label="Close quick preview">×</a>
+				<div id="owp-qv-content" class="woocommerce single-product"></div>
+			</div>
+		</div>
+	</div>
+	<div class="owp-qv-overlay"></div>
+</div>
+<div id="oceanwp-cart-sidebar-wrap"><div class="oceanwp-cart-sidebar"><a href="#" class="oceanwp-cart-close">×</a><p class="owp-cart-title">Cart</p><div class="divider"></div><div class="owp-mini-cart"><div class="widget woocommerce widget_shopping_cart"><div class="widget_shopping_cart_content">
+
+	<p class="woocommerce-mini-cart__empty-message">No products in the cart.</p>
+
+
+</div></div></div></div><div class="oceanwp-cart-sidebar-overlay"></div></div>	<script type="text/javascript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	<link rel="stylesheet" id="e-animations-css" href="http://alphaxyph.me/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.4.4" media="all">
+<script id="thickbox-js-extra">
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"http:\/\/alphaxyph.me\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+</script>
+<script src="http://alphaxyph.me/wp-includes/js/thickbox/thickbox.js?ver=3.1-20121105" id="thickbox-js"></script>
+<script src="http://alphaxyph.me/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.5.7.1" id="jquery-blockui-js"></script>
+<script id="wc-add-to-cart-js-extra">
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"http:\/\/alphaxyph.me\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+</script>
+<script src="http://alphaxyph.me/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=5.7.1" id="wc-add-to-cart-js"></script>
+<script src="http://alphaxyph.me/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.5.7.1" id="js-cookie-js"></script>
+<script id="woocommerce-js-extra">
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+</script>
+<script src="http://alphaxyph.me/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=5.7.1" id="woocommerce-js"></script>
+<script id="wc-cart-fragments-js-extra">
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_4ba4c8133a82057a07d62b008649e08b","fragment_name":"wc_fragments_4ba4c8133a82057a07d62b008649e08b","request_timeout":"5000"};
+</script>
+<script src="http://alphaxyph.me/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=5.7.1" id="wc-cart-fragments-js"></script>
+<script id="tinvwl-js-extra">
+var tinvwl_add_to_wishlist = {"text_create":"Create New","text_already_in":"{product_name} already in Wishlist","simple_flow":"","hide_zero_counter":"","i18n_make_a_selection_text":"Please select some product options before adding this product to your wishlist.","tinvwl_break_submit":"No items or actions are selected.","tinvwl_clipboard":"Copied!","allow_parent_variable":"","block_ajax_wishlists_data":"","update_wishlists_data":"","hash_key":"ti_wishlist_data_4ba4c8133a82057a07d62b008649e08b","nonce":"7dbf1ff4c2","rest_root":"http:\/\/alphaxyph.me\/wp-json\/","plugin_url":"http:\/\/alphaxyph.me\/wp-content\/plugins\/ti-woocommerce-wishlist\/"};
+</script>
+<script src="http://alphaxyph.me/wp-content/plugins/ti-woocommerce-wishlist/assets/js/public.min.js?ver=1.28.4" id="tinvwl-js"></script>
+<script src="http://alphaxyph.me/wp-includes/js/imagesloaded.min.js?ver=4.1.4" id="imagesloaded-js"></script>
+<script src="http://alphaxyph.me/wp-content/themes/oceanwp/assets/js/vendors/isotope.pkgd.min.js?ver=3.0.6" id="ow-isotop-js"></script>
+<script src="http://alphaxyph.me/wp-content/themes/oceanwp/assets/js/vendors/flickity.pkgd.min.js?ver=3.0.7" id="ow-flickity-js"></script>
+<script src="http://alphaxyph.me/wp-content/themes/oceanwp/assets/js/vendors/sidr.js?ver=3.0.7" id="ow-sidr-js"></script>
+<script src="http://alphaxyph.me/wp-content/themes/oceanwp/assets/js/vendors/magnific-popup.min.js?ver=3.0.7" id="ow-magnific-popup-js"></script>
+<script id="oceanwp-main-js-extra">
+var oceanwpLocalize = {"nonce":"7a152a5737","isRTL":"","menuSearchStyle":"drop_down","mobileMenuSearchStyle":"disabled","sidrSource":null,"sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","wooCartStyle":"drop_down","ajax_url":"http:\/\/alphaxyph.me\/wp-admin\/admin-ajax.php","cart_url":"http:\/\/alphaxyph.me\/cart\/","cart_redirect_after_add":"no","view_cart":"View cart","floating_bar":"on","grouped_text":"View products","multistep_checkout_error":"Some required fields are empty. Please fill the required fields to go to the next step."};
+</script>
+<script src="http://alphaxyph.me/wp-content/themes/oceanwp/assets/js/theme.vanilla.min.js?ver=3.0.7" id="oceanwp-main-js"></script>
+<script id="oceanwp-woocommerce-custom-features-js-extra">
+var oceanwpLocalize = {"nonce":"7a152a5737","isRTL":"","menuSearchStyle":"drop_down","mobileMenuSearchStyle":"disabled","sidrSource":null,"sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","wooCartStyle":"drop_down","ajax_url":"http:\/\/alphaxyph.me\/wp-admin\/admin-ajax.php","cart_url":"http:\/\/alphaxyph.me\/cart\/","cart_redirect_after_add":"no","view_cart":"View cart","floating_bar":"on","grouped_text":"View products","multistep_checkout_error":"Some required fields are empty. Please fill the required fields to go to the next step."};
+</script>
+<script src="http://alphaxyph.me/wp-content/themes/oceanwp/assets/js/wp-plugins/woocommerce/woo-custom-features.min.js?ver=3.0.7" id="oceanwp-woocommerce-custom-features-js"></script>
+<script src="http://alphaxyph.me/wp-content/plugins/elementskit-lite/libs/framework/assets/js/frontend-script.js?ver=2.3.7" id="elementskit-framework-js-frontend-js"></script>
+<script id="elementskit-framework-js-frontend-js-after">
+		var elementskit = {
+            resturl: 'http://alphaxyph.me/wp-json/elementskit/v1/',
+        }
+
+		
+</script>
+<script src="http://alphaxyph.me/wp-content/plugins/elementskit-lite/widgets/init/assets/js/widget-scripts.js?ver=2.3.7" id="ekit-widget-scripts-js"></script>
+<script src="http://alphaxyph.me/wp-includes/js/underscore.min.js?ver=1.13.1" id="underscore-js"></script>
+<script id="wp-util-js-extra">
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+</script>
+<script src="http://alphaxyph.me/wp-includes/js/wp-util.min.js?ver=5.8.1" id="wp-util-js"></script>
+<script id="wc-add-to-cart-variation-js-extra">
+var wc_add_to_cart_variation_params = {"wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_no_matching_variations_text":"Sorry, no products matched your selection. Please choose a different combination.","i18n_make_a_selection_text":"Please select some product options before adding this product to your cart.","i18n_unavailable_text":"Sorry, this product is unavailable. Please choose a different combination."};
+</script>
+<script src="http://alphaxyph.me/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.min.js?ver=5.7.1" id="wc-add-to-cart-variation-js"></script>
+<script id="woo-variation-swatches-js-extra">
+var woo_variation_swatches_options = {"is_product_page":"","show_variation_label":"1","variation_label_separator":":","wvs_nonce":"dc2e73dab1"};
+</script>
+<script src="http://alphaxyph.me/wp-content/plugins/woo-variation-swatches/assets/js/frontend.min.js?ver=1.1.19" id="woo-variation-swatches-js"></script>
+<script defer="" src="http://alphaxyph.me/wp-content/plugins/woo-variation-gallery/assets/js/slick.min.js?ver=1.8.1" id="woo-variation-gallery-slider-js"></script>
+<script id="woo-variation-gallery-js-extra">
+var woo_variation_gallery_options = {"gallery_reset_on_variation_change":"","enable_gallery_zoom":"1","enable_gallery_lightbox":"1","enable_gallery_preload":"1","preloader_disable":"","enable_thumbnail_slide":"1","gallery_thumbnails_columns":"4","is_vertical":"","thumbnail_position":"bottom","thumbnail_position_class_prefix":"woo-variation-gallery-thumbnail-position-","is_mobile":"","gallery_default_device_width":"40","gallery_medium_device_width":"0","gallery_small_device_width":"720","gallery_extra_small_device_width":"320"};
+</script>
+<script defer="" src="http://alphaxyph.me/wp-content/plugins/woo-variation-gallery/assets/js/frontend.min.js?ver=1.2.7" id="woo-variation-gallery-js"></script>
+<script src="http://alphaxyph.me/wp-content/themes/oceanwp/assets/js/wp-plugins/woocommerce/woo-quick-view.min.js?ver=3.0.7" id="oceanwp-woo-quick-view-js"></script>
+<script src="http://alphaxyph.me/wp-content/plugins/woocommerce/assets/js/flexslider/jquery.flexslider.min.js?ver=2.7.2-wc.5.7.1" id="flexslider-js"></script>
+<script src="http://alphaxyph.me/wp-content/themes/oceanwp/assets/js/wp-plugins/woocommerce/woo-mini-cart.min.js?ver=3.0.7" id="oceanwp-woo-mini-cart-js"></script>
+<script src="http://alphaxyph.me/wp-content/plugins/ocean-product-sharing/assets/js/social.js?ver=2.0.0" id="ops-product-share-script-js"></script>
+<script src="http://alphaxyph.me/wp-content/plugins/ocean-social-sharing/assets/js/social.js?ver=2.0.0" id="oss-social-share-script-js"></script>
+<script src="http://alphaxyph.me/wp-includes/js/wp-embed.min.js?ver=5.8.1" id="wp-embed-js"></script>
+<!--[if lt IE 9]>
+<script src='http://alphaxyph.me/wp-content/themes/oceanwp/assets/js/third/html5.min.js?ver=3.0.7' id='html5shiv-js'></script>
+<![endif]-->
+<script src="http://alphaxyph.me/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.4.4" id="elementor-webpack-runtime-js"></script>
+<script src="http://alphaxyph.me/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.4.4" id="elementor-frontend-modules-js"></script>
+<script src="http://alphaxyph.me/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2" id="elementor-waypoints-js"></script>
+<script src="http://alphaxyph.me/wp-includes/js/jquery/ui/core.min.js?ver=1.12.1" id="jquery-ui-core-js"></script>
+<script src="http://alphaxyph.me/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6" id="swiper-js"></script>
+<script src="http://alphaxyph.me/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.4.4" id="share-link-js"></script>
+<script src="http://alphaxyph.me/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.8.1" id="elementor-dialog-js"></script>
+<script id="elementor-frontend-js-extra">
+var PaModulesSettings = {"equalHeight_url":"http:\/\/alphaxyph.me\/wp-content\/plugins\/premium-addons-for-elementor\/assets\/frontend\/min-js\/premium-eq-height.min.js"};
+</script>
+<script id="elementor-frontend-js-before">
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Extra","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Extra","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.4.4","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"a11y_improvements":true,"e_import_export":true,"additional_custom_breakpoints":true,"landing-pages":true,"elements-color-picker":true,"admin-top-bar":true},"urls":{"assets":"http:\/\/alphaxyph.me\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":87,"title":"Contact%20Us%20%E2%80%93%20Online%20Mobile%20shop","excerpt":"","featuredImage":false}};
+</script>
+<script src="http://alphaxyph.me/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.4.4" id="elementor-frontend-js"></script><span id="elementor-device-mode" class="elementor-screen-only"></span>
+<script id="elementor-frontend-js-after">
+window.scopes_array = {};
+                window.backend = 0;
+                jQuery( window ).on( "elementor/frontend/init", function() {
+                    elementorFrontend.hooks.addAction( "frontend/element_ready/section", function( $scope, $ ){
+                        if ( "undefined" == typeof $scope ) {
+                                return;
+                        }
+                        if ( $scope.hasClass( "premium-equal-height-yes" ) ) {
+                            var id = $scope.data("id");
+                            window.scopes_array[ id ] = $scope;
+                        }
+                        if(elementorFrontend.isEditMode()){
+                            var url = PaModulesSettings.equalHeight_url;
+                            jQuery.cachedAssets = function( url, options ) {
+                                // Allow user to set any option except for dataType, cache, and url.
+                                options = jQuery.extend( options || {}, {
+                                    dataType: "script",
+                                    cache: true,
+                                    url: url
+                                });
+                                // Return the jqXHR object so we can chain callbacks.
+                                return jQuery.ajax( options );
+                            };
+                            jQuery.cachedAssets( url );
+                            window.backend = 1;
+                        }
+                    });
+                });
+                jQuery(document).ready(function(){
+                    if ( jQuery.find( ".premium-equal-height-yes" ).length < 1 ) {
+                        return;
+                    }
+
+                    var url = PaModulesSettings.equalHeight_url;
+
+                    jQuery.cachedAssets = function( url, options ) {
+                        // Allow user to set any option except for dataType, cache, and url.
+                        options = jQuery.extend( options || {}, {
+                            dataType: "script",
+                            cache: true,
+                            url: url
+                        });
+
+                        // Return the jqXHR object so we can chain callbacks.
+                        return jQuery.ajax( options );
+                    };
+                    jQuery.cachedAssets( url );
+                });	
+</script>
+<script src="http://alphaxyph.me/wp-content/plugins/elementskit-lite/widgets/init/assets/js/animate-circle.js?ver=2.3.7" id="animate-circle-js"></script>
+<script src="http://alphaxyph.me/wp-content/plugins/elementskit-lite/widgets/init/assets/js/elementor.js?ver=2.3.7" id="elementskit-elementor-js"></script>
+<script src="http://alphaxyph.me/wp-content/plugins/elementor/assets/js/preloaded-modules.min.js?ver=3.4.4" id="preloaded-modules-js"></script>
+
+
+</body>
